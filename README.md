@@ -27,6 +27,6 @@ Each folder contains a separate system or feature.
 
 ## 📬 Contact
 
-- **Discord:** `volmaks_dev`  
+- **Discord:** `volmaks.dev`  
 
 🔧 Open for commissions: I can create full systems from scratch or improve your existing scripts.
