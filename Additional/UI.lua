@@ -10313,7 +10313,7 @@ function Compkiller:Loader(IconId,Duration)
 	Vignette.Name = Compkiller:_RandomString()
 	Vignette.Parent = Loader
 	Vignette.BackgroundTransparency = 1.000
-	Vignette.BorderColor3 = Color3.fromRGB(27, 42, 53)
+	Vignette.BorderColor3 = Color3.fromRGB(105,105,105)
 	Vignette.BorderSizePixel = 0
 	Vignette.Size = UDim2.new(1, 0, 1, 0)
 	Vignette.Image = Compkiller:CacheImage("rbxassetid://18720640102")
