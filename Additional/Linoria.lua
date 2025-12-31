@@ -4252,17 +4252,20 @@ do
             -- Library:SafeCallback(Func, Slider.Value);
         end
 
-        local function Round(Value)
-            if Slider.Rounding == 0 then
-                return math.floor(Value)
-            end
+		local function RoundToStep(value, step)
+			step = tonumber(step) or 0
+			if step <= 0 then
+				return value
+			end
+		
+			local rounded = math.floor(value / step + 0.5) * step
+			return tonumber(string.format("%.6f", rounded))
+		end
 
-            return tonumber(string.format("%." .. tostring(Slider.Rounding) .. "f", Value))
-        end
-
-        function Slider:GetValueFromXScale(X)
-            return Round(Library:MapValue(X, 0, 1, Slider.Min, Slider.Max))
-        end
+       
+		function Slider:GetValueFromXScale(X)
+			return Round(Library:MapValue(X, 0, 1, Slider.Min, Slider.Max))
+		end
         
         function Slider:SetMax(Value)
             assert(Value > Slider.Min, 'Max value cannot be less than the current min value.')
