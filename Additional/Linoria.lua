@@ -4261,6 +4261,11 @@ do
 			local rounded = math.floor(value / step + 0.5) * step
 			return tonumber(string.format("%.6f", rounded))
 		end
+		
+		-- ПОТІМ
+		local function Round(Value)
+			return RoundToStep(Value, Slider.Rounding)
+		end
 
        
 		function Slider:GetValueFromXScale(X)
