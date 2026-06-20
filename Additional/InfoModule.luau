@@ -1,3 +1,5 @@
+-- Decompiled with Potassium's decompiler.
+
 return {
     PassGifts = {
         [1628441770] = 3477243681,
@@ -5,6 +7,7 @@ return {
         [1640776898] = 3491607849,
         [1823047083] = 3491607849,
         [1826698184] = 3491607849,
+        [1883183171] = 3605582282,
         [1648071738] = 3487189664,
         [1651738174] = 3499391893,
         [1831083023] = 3589736128,
@@ -62,6 +65,15 @@ return {
             Icon = 129675264104051,
             Duration = "Daily",
             XPReward = 700
+        },
+        F15N = {
+            Heading = "Fuse 15 NFTs",
+            Reward = 600,
+            Goal = 15,
+            Trigger = "Fuse_NFTs",
+            Icon = 122387777939578,
+            Duration = "Daily",
+            XPReward = 800
         },
         G10N500 = {
             Heading = "Get 10 NFTs worth more than 500,000",
@@ -123,6 +135,15 @@ return {
             Goal = 3,
             Trigger = "Fuse_Black",
             Icon = 122387777939578,
+            Duration = "Weekly",
+            XPReward = 6000
+        },
+        U2515 = {
+            Heading = "Upgrade 25 NFTs with a chance of less than 15%",
+            Reward = 1500,
+            Goal = 25,
+            Trigger = "Upgrade_<15",
+            Icon = 124295328030749,
             Duration = "Weekly",
             XPReward = 6000
         }
@@ -2180,6 +2201,56 @@ return {
             Image = "119556664889659",
             OnlyCase = true
         },
+        ["Durov’s Figurine (Ronaldo)"] = {
+            Price = 777777777777,
+            Image = "100374134815959",
+            OnlyCase = true
+        },
+        ["Trophy (Championship)"] = {
+            Price = 2026202620,
+            Image = "78840999828262",
+            OnlyCase = true
+        },
+        ["Plush Pepe (Captain)"] = {
+            Price = 300000000000,
+            Image = "79341926061544",
+            OnlyCase = true
+        },
+        ["Heart Locket (Deadpool)"] = {
+            Price = 5555555555,
+            Image = "81675313862774\t",
+            OnlyCase = true
+        },
+        ["Mini Oscar (Spidey)"] = {
+            Price = 175760041,
+            Image = "81943261290290",
+            OnlyCase = true
+        },
+        ["Mighty Arm (Infinity)"] = {
+            Price = 333333333,
+            Image = "104889727539203",
+            OnlyCase = true
+        },
+        ["Gem Signet (Arc Reactor)"] = {
+            Price = 267054323,
+            Image = "72102212760216",
+            OnlyCase = true
+        },
+        ["Khabib\'s Papakha (Madridista)"] = {
+            Price = 989140000,
+            Image = "88575331919518",
+            OnlyCase = true
+        },
+        ["Victory Medal (Glory Goal)"] = {
+            Price = 45120067,
+            Image = "111646242760814",
+            OnlyCase = true
+        },
+        ["Blink Blinky (Soccer)"] = {
+            Price = 676767676,
+            Image = "77145020543855",
+            OnlyCase = true
+        },
         ["Mini Oscar (The World)"] = {
             Price = 7777777777,
             Image = "117775493636731",
@@ -2202,8 +2273,8 @@ return {
             Price = 577777777,
             Image = "123317710551278",
             Drop = {
-                { "Durov’s Figurine (Dio)", 0.03 },
-                { "Mini Oscar (The World)", 3.47 },
+                { "Durov’s Figurine (Dio)", 0.015 },
+                { "Mini Oscar (The World)", 3.475 },
                 { "Mask (Stone Mask)", 96.5 }
             }
         },
