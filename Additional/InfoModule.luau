@@ -1,5 +1,3 @@
--- Decompiled with Potassium's decompiler.
-
 return {
     PassGifts = {
         [1628441770] = 3477243681,
@@ -2266,9 +2264,40 @@ return {
             Image = "139778265038718",
             OnlyCase = true,
             Hidden = true
+        },
+        ["Case (TSUM)"] = {
+            Price = 1000000000000,
+            Image = "82109193707885",
+            OnlyCase = true
+        },
+        ["Resistance Dog (Drill Fit)"] = {
+            Price = 175856449750,
+            Image = "138356714623112",
+            OnlyCase = true
+        },
+        ["Mood Pack (BAPE)"] = {
+            Price = 25478125050,
+            Image = "97096516277734",
+            OnlyCase = true
+        },
+        ["Gift Durov’s Cap (Arctic)"] = {
+            Price = 4523719525,
+            Image = "139357681263099",
+            OnlyCase = true
         }
     },
     Cases = {
+        TSUM = {
+            Price = 999999999,
+            Image = "122507805641975",
+            Drop = {
+                { "Case (TSUM)", 0.01 },
+                { "Resistance Dog (Drill Fit)", 0.09 },
+                { "Mood Pack (BAPE)", 0.7 },
+                { "Gift Durov’s Cap (Arctic)", 4.2 },
+                { "Heart", 95 }
+            }
+        },
         Dio = {
             Price = 577777777,
             Image = "123317710551278",
