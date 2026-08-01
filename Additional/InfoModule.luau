@@ -1,3 +1,9 @@
+-- Script Path: game:GetService("ReplicatedStorage").Info
+-- Took 0.01s to decompile.
+-- Executor: Potassium (v2.3.5)
+
+-- Decompiled with Potassium's decompiler.
+
 return {
     PassGifts = {
         [1628441770] = 3477243681,
@@ -261,66 +267,13 @@ return {
         Fire = 75411239678524
     },
     PaidCases = {
-        Pepe10 = {
-            3477217543,
-            3477217722,
-            3477218219,
-            3477218451,
-            3477218699,
-            3477218914,
-            3477219204,
-            3477219478,
-            3477221963,
-            3477222195
-        },
-        Starter = {
-            3477211095,
-            3477211298,
-            3477211513,
-            3477211704,
-            3477211865,
-            3477212092,
-            3477212285,
-            3477212531,
-            3477212779,
-            3477212961
-        },
-        Premium = {
-            3477215092,
-            3477215291,
-            3477215484,
-            3477215703,
-            3477215865,
-            3477216149,
-            3477216343,
-            3477216564,
-            3477216876,
-            3477217094
-        },
-        ["All In"] = {
-            3477239344,
-            3477239620,
-            3477239781,
-            3477239981,
-            3477240151,
-            3477240287,
-            3477240480,
-            3477240587,
-            3477240735,
-            3477240924
-        },
-        ["Last Chance"] = {
-            3446816531,
-            3446816937,
-            3446817215,
-            3446817447,
-            3446817676,
-            3446817906,
-            3446818132,
-            3446818417,
-            3446818866,
-            3446819099
-        }
+        Pepe10 = { 3477217543, 3477217722, 3477218219, 3477218451, 3477218699, 3477218914, 3477219204, 3477219478, 3477221963, 3477222195 },
+        Starter = { 3477211095, 3477211298, 3477211513, 3477211704, 3477211865, 3477212092, 3477212285, 3477212531, 3477212779, 3477212961 },
+        Premium = { 3477215092, 3477215291, 3477215484, 3477215703, 3477215865, 3477216149, 3477216343, 3477216564, 3477216876, 3477217094 },
+        ["All In"] = { 3477239344, 3477239620, 3477239781, 3477239981, 3477240151, 3477240287, 3477240480, 3477240587, 3477240735, 3477240924 },
+        ["Last Chance"] = { 3446816531, 3446816937, 3446817215, 3446817447, 3446817676, 3446817906, 3446818132, 3446818417, 3446818866, 3446819099 },
+        Memories = { 3608625333, 3608625377, 3608625432, 3608625467, 3608625498, 3608625541, 3608625576, 3608625627, 3608625665, 3608625707 },
+        Kamina = { 3612486474, 3612486540, 3612486589, 3612486647, 3612486705, 3612486766, 3612486829, 3612486892, 3612486946, 3612487000 }
     },
     Gifts = {
         Gift = {
@@ -1208,7 +1161,8 @@ return {
             Price = 5928744750,
             Image = 119733269901388,
             OnlyCase = true,
-            Unique = true
+            Unique = true,
+            Old = true
         },
         ["Durov’s Figurine"] = {
             Price = 160256075,
@@ -1285,13 +1239,15 @@ return {
             Price = 8525000000,
             Image = 85194869805750,
             OnlyCase = true,
-            DisplayName = "TG Pin"
+            DisplayName = "TG Pin",
+            Old = true
         },
         ["Telegram Pin (Gradient)"] = {
             Price = 60888888000,
             Image = 73975269431953,
             OnlyCase = true,
-            DisplayName = "TG Pin (Gradient)"
+            DisplayName = "TG Pin (Gradient)",
+            Old = true
         },
         ["Plush Pepe (Clown)"] = {
             Price = 77777777777,
@@ -2284,701 +2240,449 @@ return {
             Price = 4523719525,
             Image = "139357681263099",
             OnlyCase = true
+        },
+        ["Surge Board (Ayanami)"] = {
+            Price = 276555666555,
+            Image = "87757318337001",
+            OnlyCase = true
+        },
+        ["Crystal Eagle (Royal Pavo)"] = {
+            Price = 32050355675,
+            Image = "110942615261555",
+            OnlyCase = true
+        },
+        ["Mousse Cake (Hollow Night)"] = {
+            Price = 4784350890,
+            Image = "89926184935439",
+            OnlyCase = true
+        },
+        ["Bling Binky (Ice Queen)"] = {
+            Price = 2450899300,
+            Image = "84294470884854",
+            OnlyCase = true
+        },
+        ["Chill Flame (Ghost Light)"] = {
+            Price = 834561095,
+            Image = "79098446049829",
+            OnlyCase = true
+        },
+        ["Grim Reaper"] = {
+            Price = 1777777777777,
+            Image = "121033438450739",
+            OnlyCase = true,
+            Old = true
+        },
+        ["Artisan Brick (Grass Block)"] = {
+            Price = 74566005,
+            Image = "126758042600039"
+        },
+        ["Scared Cat (Creeper)"] = {
+            Price = 136505405,
+            Image = "93060959447528"
+        },
+        ["Artisan Brick (Buzzy Bee)"] = {
+            Price = 218745615,
+            Image = "113203023191386"
+        },
+        ["Scared Cat (Endercat)"] = {
+            Price = 3564181055,
+            Image = "76025958385315"
+        },
+        ["Rare Bird (Zombie Rider)"] = {
+            Price = 56187225060,
+            Image = "93721811558212",
+            OnlyCase = true
+        },
+        ["Resistance Dog (Ender Dragon)"] = {
+            Price = 1255555555555,
+            Image = "107792689447567",
+            OnlyCase = true
+        },
+        ["Rare Bird (Aurora Moth)"] = {
+            Price = 1101010101010,
+            Image = "123567720390043",
+            OnlyCase = true,
+            Old = true
+        },
+        ["Bling Binky (Crystal Wings)"] = {
+            Price = 98553140850,
+            Image = "118128530694020",
+            OnlyCase = true
+        },
+        ["Loot Bag (Fluorescent)"] = {
+            Price = 7542148035,
+            Image = "140078011321578",
+            OnlyCase = true
+        },
+        ["Mousse Cake (Butterflies)"] = {
+            Price = 465780145,
+            Image = "71834137037001",
+            OnlyCase = true
+        },
+        ["Homemade Cake (Meadow)"] = {
+            Price = 31042005,
+            Image = "84893967819999",
+            OnlyCase = true
+        },
+        ["Sunglasses (Thug Life)"] = {
+            Price = 2000000000000,
+            Image = "114069559271783",
+            OnlyCase = true,
+            Old = true
+        },
+        ["Sunglasses (Neo)"] = {
+            Price = 2000000000000,
+            Image = "126359866704877",
+            OnlyCase = true,
+            Old = true
+        },
+        ["Sunglasses (Project Mayhem)"] = {
+            Price = 2000000000000,
+            Image = "95506579720610",
+            OnlyCase = true,
+            Old = true
+        },
+        ["Sunglasses (Six Seven)"] = {
+            Price = 35078142000,
+            Image = "74712642499366",
+            OnlyCase = true
+        },
+        ["Sunglasses (Stardust)"] = {
+            Price = 2515706025,
+            Image = "93343378860118"
+        },
+        ["Sunglasses (Retro Disco)"] = {
+            Price = 108055405,
+            Image = "99481486933775"
+        },
+        ["Sunglasses (Kamina)"] = {
+            Price = 2500000000000,
+            Image = "139554680023116",
+            OnlyCase = true,
+            Old = true
+        },
+        ["Artisan Brick (Cherry Ruby)"] = {
+            Price = 350000000000,
+            Image = "81129751079792",
+            OnlyCase = true,
+            Old = true
+        },
+        ["Cupid Charm (Blood Gem)"] = {
+            Price = 100000000,
+            Image = "109740089889185",
+            OnlyCase = true,
+            Old = true
         }
     },
     Cases = {
+        Kamina = {
+            Image = 112231652607706,
+            Price = 149,
+            Paid = true,
+            Drop = { { "Sunglasses (Kamina)", 1 }, { "Artisan Brick (Cherry Ruby)", 7 }, { "Cupid Charm (Blood Gem)", 92 } }
+        },
+        Sunglasses = {
+            Price = 1200000,
+            TON = true,
+            Image = 116680795325715,
+            Drop = { { "Sunglasses (Thug Life)", 0.002 }, { "Sunglasses (Neo)", 0.002 }, { "Sunglasses (Project Mayhem)", 0.002 }, { "Sunglasses (Six Seven)", 0.194 }, { "Sunglasses (Stardust)", 19.8 }, { "Sunglasses (Retro Disco)", 80 } }
+        },
+        Butterfly = {
+            Price = 2000,
+            GEMS = true,
+            Image = 111699785404113,
+            Drop = { { "Rare Bird (Aurora Moth)", 0.1 }, { "Bling Binky (Crystal Wings)", 0.9 }, { "Loot Bag (Fluorescent)", 4 }, { "Mousse Cake (Butterflies)", 30 }, { "Homemade Cake (Meadow)", 65 } }
+        },
+        Mineblox = {
+            Price = 625500,
+            TON = true,
+            Image = 113917374938547,
+            Drop = { { "Artisan Brick (Grass Block)", 40 }, { "Scared Cat (Creeper)", 35 }, { "Artisan Brick (Buzzy Bee)", 19.5 }, { "Scared Cat (Endercat)", 5.3 }, { "Rare Bird (Zombie Rider)", 0.195 }, { "Resistance Dog (Ender Dragon)", 0.005 } }
+        },
+        Memories = {
+            Image = 80137950608091,
+            Price = 179,
+            Paid = true,
+            Drop = { { "Heart", 44 }, { "Telegram Pin", 41 }, { "Telegram Pin (Gradient)", 7 }, { "Plush Pepe (Clown)", 7 }, { "Grim Reaper", 1 } }
+        },
+        ["Blue Eyes"] = {
+            Price = 1000,
+            GEMS = true,
+            Image = "73856906337704",
+            Drop = { { "Surge Board (Ayanami)", 0.2 }, { "Crystal Eagle (Royal Pavo)", 1 }, { "Mousse Cake (Hollow Night)", 18.8 }, { "Bling Binky (Ice Queen)", 20 }, { "Chill Flame (Ghost Light)", 60 } }
+        },
         TSUM = {
             Price = 999999999,
             Image = "122507805641975",
-            Drop = {
-                { "Case (TSUM)", 0.01 },
-                { "Resistance Dog (Drill Fit)", 0.09 },
-                { "Mood Pack (BAPE)", 0.7 },
-                { "Gift Durov’s Cap (Arctic)", 4.2 },
-                { "Heart", 95 }
-            }
+            Drop = { { "Case (TSUM)", 0.01 }, { "Resistance Dog (Drill Fit)", 0.09 }, { "Mood Pack (BAPE)", 0.7 }, { "Gift Durov’s Cap (Arctic)", 4.2 }, { "Heart", 95 } }
         },
         Dio = {
             Price = 577777777,
             Image = "123317710551278",
-            Drop = {
-                { "Durov’s Figurine (Dio)", 0.015 },
-                { "Mini Oscar (The World)", 3.475 },
-                { "Mask (Stone Mask)", 96.5 }
-            }
+            Drop = { { "Durov’s Figurine (Dio)", 0.015 }, { "Mini Oscar (The World)", 3.475 }, { "Mask (Stone Mask)", 96.5 } }
         },
         ["The Boys"] = {
             Price = 1500,
             GEMS = true,
             Image = "70923515271544",
-            Drop = {
-                { "Durov’s Figurine (Homelander)", 0.1 },
-                { "Durov’s Figurine (Butcher)", 0.7 },
-                { "Durov’s Figurine (Soldier Boy)", 5.2 },
-                { "Durov’s Figurine (A-Train)", 24 },
-                { "Durov’s Figurine (The Deep)", 70 }
-            }
+            Drop = { { "Durov’s Figurine (Homelander)", 0.1 }, { "Durov’s Figurine (Butcher)", 0.7 }, { "Durov’s Figurine (Soldier Boy)", 5.2 }, { "Durov’s Figurine (A-Train)", 24 }, { "Durov’s Figurine (The Deep)", 70 } }
         },
         ["Shark Bite"] = {
             Price = 3000,
             SUN = true,
             Image = "88953792967652",
-            Drop = {
-                { "Resistance Dog (Shark)", 1 },
-                { "Neko Helmet (Shark)", 99 }
-            }
+            Drop = { { "Resistance Dog (Shark)", 1 }, { "Neko Helmet (Shark)", 99 } }
         },
         Desert = {
             Price = 250,
             SUN = true,
             Image = "74029859605294",
-            Drop = {
-                { "Plush Pepe (Sandy)", 0.5 },
-                { "Artisan Brick (Pyramid)", 1.75 },
-                { "Mighty Arm (Desert)", 7 },
-                { "Magic Potion (Sandy)", 20 },
-                { "Sandcastle (Desert)", 70.75 }
-            }
+            Drop = { { "Plush Pepe (Sandy)", 0.5 }, { "Artisan Brick (Pyramid)", 1.75 }, { "Mighty Arm (Desert)", 7 }, { "Magic Potion (Sandy)", 20 }, { "Sandcastle (Desert)", 70.75 } }
         },
         Tropical = {
             Price = 100,
             SUN = true,
             Image = "92036367409033",
-            Drop = {
-                { "Durov’s Figurine (Holidays)", 1 },
-                { "Durov’s Sunglasses (Tropics)", 2.5 },
-                { "Surfboard (Tropics)", 10 },
-                { "Ion Gem (Sea)", 20 },
-                { "Coconut (Tropics)", 66.5 }
-            }
+            Drop = { { "Durov’s Figurine (Holidays)", 1 }, { "Durov’s Sunglasses (Tropics)", 2.5 }, { "Surfboard (Tropics)", 10 }, { "Ion Gem (Sea)", 20 }, { "Coconut (Tropics)", 66.5 } }
         },
         ["Blooming Sakura"] = {
             Price = 1000,
             SUN = true,
             Image = "94649364884706",
-            Drop = {
-                { "Crystal Eagle (Sakura)", 0.5 },
-                { "Heart Locket (Sakura)", 2.5 },
-                { "Gift Durov’s Cap (Sakura)", 7 },
-                { "Nail Bracelet (Sakura)", 30 },
-                { "Mood Pack (Sakura)", 60 }
-            }
+            Drop = { { "Crystal Eagle (Sakura)", 0.5 }, { "Heart Locket (Sakura)", 2.5 }, { "Gift Durov’s Cap (Sakura)", 7 }, { "Nail Bracelet (Sakura)", 30 }, { "Mood Pack (Sakura)", 60 } }
         },
         Radioactive = {
             Price = 24999999,
             Image = "110824486039912",
-            Drop = {
-                { "Perfume Bottle (Venom Mist)", 60.1 },
-                { "Magic Potion (Verdant Vial)", 20 },
-                { "Astral Shard (Uranium)", 10 },
-                { "Genie Lamp (Lost Souls)", 5 },
-                { "Precious Peach (Gleam Bite)", 2 },
-                { "Durov’s Cap (Toxic Guy)", 1.9 },
-                { "Heart Locket (Reactor)", 1 }
-            }
+            Drop = { { "Perfume Bottle (Venom Mist)", 60.1 }, { "Magic Potion (Verdant Vial)", 20 }, { "Astral Shard (Uranium)", 10 }, { "Genie Lamp (Lost Souls)", 5 }, { "Precious Peach (Gleam Bite)", 2 }, { "Durov’s Cap (Toxic Guy)", 1.9 }, { "Heart Locket (Reactor)", 1 } }
         },
         Cirque = {
             Image = 102198691984946,
             Price = 700,
             GEMS = true,
-            Drop = {
-                { "Plush Pepe (Clown)", 0.1 },
-                { "Heart Locket (Cirque)", 29.9 },
-                { "Durov’s Cap (Fun Time)", 70 }
-            }
+            Drop = { { "Plush Pepe (Clown)", 0.1 }, { "Heart Locket (Cirque)", 29.9 }, { "Durov’s Cap (Fun Time)", 70 } }
         },
         Monarch = {
             Image = 92789602242541,
             Price = 12999999,
-            Drop = {
-                { "Input Key (Angel)", 80 },
-                { "Toy Bear (Angel)", 19.75 },
-                { "Plush Pepe (Kung Fu Pepe)", 0.2 },
-                { "Crystal Eagle", 0.04 },
-                { "Gem Signet (Spinny Boi)", 0.01 }
-            }
+            Drop = { { "Input Key (Angel)", 80 }, { "Toy Bear (Angel)", 19.75 }, { "Plush Pepe (Kung Fu Pepe)", 0.2 }, { "Crystal Eagle", 0.04 }, { "Gem Signet (Spinny Boi)", 0.01 } }
         },
         Magnate = {
             Image = 123757755758214,
             GEMS = true,
             Price = 500,
-            Drop = {
-                { "Bling Binky (Tribal Skull)", 41.88 },
-                { "Westside Sign (Sapphire)", 33 },
-                { "Pink Flamingo", 25 },
-                { "Plush Pepe (Magnate)", 0.1 },
-                { "Crystal Eagle", 0.02 }
-            }
+            Drop = { { "Bling Binky (Tribal Skull)", 41.88 }, { "Westside Sign (Sapphire)", 33 }, { "Pink Flamingo", 25 }, { "Plush Pepe (Magnate)", 0.1 }, { "Crystal Eagle", 0.02 } }
         },
         ["Sunny Day"] = {
             Image = 73024061358319,
             TON = true,
             Price = 15500,
-            Drop = {
-                { "Pool Float (Show Seal)", 36 },
-                { "Pool Float (Sebastian)", 31 },
-                { "Pool Float (Palm Beach)", 26 },
-                { "Pool Float (Pool Pepe)", 3 },
-                { "Pool Float (Duck Boss)", 2.87 },
-                { "Pool Float (Crypto Whale)", 0.98 },
-                { "Pool Float (Safari)", 0.14 },
-                { "Plush Pepe (Tropical)", 0.01 }
-            }
+            Drop = { { "Pool Float (Show Seal)", 36 }, { "Pool Float (Sebastian)", 31 }, { "Pool Float (Palm Beach)", 26 }, { "Pool Float (Pool Pepe)", 3 }, { "Pool Float (Duck Boss)", 2.87 }, { "Pool Float (Crypto Whale)", 0.98 }, { "Pool Float (Safari)", 0.14 }, { "Plush Pepe (Tropical)", 0.01 } }
         },
         ["Death Note"] = {
             Price = 79750,
             TON = true,
             Image = 98726594446431,
-            Drop = {
-                { "Genie Lamp (Monstrous)", 47.2 },
-                { "Perfume Bottle (Noir)", 24 },
-                { "Nail Bracelet (Shadow)", 18.5 },
-                { "Astral Shard (Dark Soul)", 10.29 },
-                { "Timeless Book (Death Note)", 0.01 }
-            }
+            Drop = { { "Genie Lamp (Monstrous)", 47.2 }, { "Perfume Bottle (Noir)", 24 }, { "Nail Bracelet (Shadow)", 18.5 }, { "Astral Shard (Dark Soul)", 10.29 }, { "Timeless Book (Death Note)", 0.01 } }
         },
         ["Desk Calendars"] = {
             Image = 137761401385296,
             Price = 44000000,
-            Drop = {
-                { "Desk Calendar (Lovely)", 10 },
-                { "Desk Calendar (Gold Leaf)", 8 },
-                { "Desk Calendar (Tropical)", 8 },
-                { "Desk Calendar (Orange Mood)", 8 },
-                { "Desk Calendar (Purple Mint)", 6 },
-                { "Desk Calendar (Blue Sky)", 6 },
-                { "Desk Calendar (Golden Touch)", 6 },
-                { "Desk Calendar (Minting Date)", 6 },
-                { "Desk Calendar (Lavendays)", 6 },
-                { "Desk Calendar (Harvest)", 6 },
-                { "Desk Calendar (October)", 4 },
-                { "Desk Calendar (November)", 4 },
-                { "Desk Calendar (December)", 4 },
-                { "Desk Calendar (Golden Years)", 4 },
-                { "Desk Calendar (Thursday)", 4 },
-                { "Desk Calendar (June)", 2 },
-                { "Desk Calendar (April)", 2 },
-                { "Desk Calendar (September)", 1.4 },
-                { "Desk Calendar (March)", 1.4 },
-                { "Desk Calendar (Saturday)", 1.2 },
-                { "Desk Calendar (Durov Day)", 0.5 },
-                { "Desk Calendar (Pepe Plans)", 0.5 },
-                { "Desk Calendar (Burning Time)", 0.4 },
-                { "Desk Calendar (Fund Manager)", 0.3 },
-                { "Desk Calendar (Investor)", 0.3 }
-            }
+            Drop = { { "Desk Calendar (Lovely)", 10 }, { "Desk Calendar (Gold Leaf)", 8 }, { "Desk Calendar (Tropical)", 8 }, { "Desk Calendar (Orange Mood)", 8 }, { "Desk Calendar (Purple Mint)", 6 }, { "Desk Calendar (Blue Sky)", 6 }, { "Desk Calendar (Golden Touch)", 6 }, { "Desk Calendar (Minting Date)", 6 }, { "Desk Calendar (Lavendays)", 6 }, { "Desk Calendar (Harvest)", 6 }, { "Desk Calendar (October)", 4 }, { "Desk Calendar (November)", 4 }, { "Desk Calendar (December)", 4 }, { "Desk Calendar (Golden Years)", 4 }, { "Desk Calendar (Thursday)", 4 }, { "Desk Calendar (June)", 2 }, { "Desk Calendar (April)", 2 }, { "Desk Calendar (September)", 1.4 }, { "Desk Calendar (March)", 1.4 }, { "Desk Calendar (Saturday)", 1.2 }, { "Desk Calendar (Durov Day)", 0.5 }, { "Desk Calendar (Pepe Plans)", 0.5 }, { "Desk Calendar (Burning Time)", 0.4 }, { "Desk Calendar (Fund Manager)", 0.3 }, { "Desk Calendar (Investor)", 0.3 } }
         },
         Durov = {
             Image = 77154250163489,
             TON = true,
             Price = 1500,
-            Drop = {
-                { "Durov’s Boots", 75.7 },
-                { "Durov’s Coat", 20 },
-                { "Durov’s Sunglasses", 4 },
-                { "Durov’s Figurine", 0.23 },
-                { "Durov’s Figurine (X-Ray)", 0.1 },
-                { "Plush Pepe (Steel Frog)", 0.02 }
-            }
+            Drop = { { "Durov’s Boots", 75.7 }, { "Durov’s Coat", 20 }, { "Durov’s Sunglasses", 4 }, { "Durov’s Figurine", 0.23 }, { "Durov’s Figurine (X-Ray)", 0.1 }, { "Plush Pepe (Steel Frog)", 0.02 } }
         },
         REDO = {
             Image = 132457608690149,
             TON = true,
             Price = 47500,
-            Drop = {
-                { "Liberty", 69.77 },
-                { "Bow Tie (Durov\'s Dog)", 25 },
-                { "Joyful Bundle (Gem Stash)", 4.99 },
-                { "Tama Gadget (Underdog)", 0.22 },
-                { "Nail Bracelet (Resistance)", 0.02 }
-            }
+            Drop = { { "Liberty", 69.77 }, { "Bow Tie (Durov\'s Dog)", 25 }, { "Joyful Bundle (Gem Stash)", 4.99 }, { "Tama Gadget (Underdog)", 0.22 }, { "Nail Bracelet (Resistance)", 0.02 } }
         },
         Angel = {
             Image = 113027733090291,
             Price = 33333333,
-            Drop = {
-                { "XMAS Stocking (Heaven)", 57.69 },
-                { "Ionic Dryer (Angel Blast)", 25 },
-                { "Top Hat (Celestial)", 17 },
-                { "Sleigh Ball (Holy Grenade)", 0.2 },
-                { "Loot Bag (Priestly)", 0.1 },
-                { "Resistance Dog (Holy Dog)", 0.01 }
-            }
-        },
-        ["Last Chance"] = {
-            Image = 86067798652378,
-            Paid = true,
-            Price = 279,
-            Drop = {
-                { "Witch Hat (Mordor)", 50 },
-                { "Mask", 40 },
-                { "Coffin", 7 },
-                { "Gravestone", 2.5 },
-                { "Grim Reaper", 0.5 }
-            }
+            Drop = { { "XMAS Stocking (Heaven)", 57.69 }, { "Ionic Dryer (Angel Blast)", 25 }, { "Top Hat (Celestial)", 17 }, { "Sleigh Ball (Holy Grenade)", 0.2 }, { "Loot Bag (Priestly)", 0.1 }, { "Resistance Dog (Holy Dog)", 0.01 } }
         },
         ["Bloody Night"] = {
             Image = 94792767297608,
             Price = 5000000,
-            Drop = {
-                { "Plush Pepe (Poison Dart)", 25 },
-                { "Plush Pepe (Hue Jester)", 22 },
-                { "Plush Pepe (Amalgam)", 12 },
-                { "Plush Pepe (Aqua Plush)", 12 },
-                { "Plush Pepe (Emo Boi)", 10 },
-                { "Plush Pepe (Emerald Plush)", 8 },
-                { "Plush Pepe (Cozy Galaxy)", 6 },
-                { "Plush Pepe (Midas Pepe)", 4 },
-                { "Plush Pepe (Toading...)", 0.7 },
-                { "Plush Pepe (Gucci Leap)", 0.2 },
-                { "Plush Pepe (Hothead)", 0.1 }
-            }
+            Drop = { { "Plush Pepe (Poison Dart)", 25 }, { "Plush Pepe (Hue Jester)", 22 }, { "Plush Pepe (Amalgam)", 12 }, { "Plush Pepe (Aqua Plush)", 12 }, { "Plush Pepe (Emo Boi)", 10 }, { "Plush Pepe (Emerald Plush)", 8 }, { "Plush Pepe (Cozy Galaxy)", 6 }, { "Plush Pepe (Midas Pepe)", 4 }, { "Plush Pepe (Toading...)", 0.7 }, { "Plush Pepe (Gucci Leap)", 0.2 }, { "Plush Pepe (Hothead)", 0.1 } }
         },
         Glitch = {
             Image = 75712104636721,
             Price = 135000,
-            Drop = {
-                { "Artisan Brick (Concrete)", 30 },
-                { "Heroic Helmet (Praetorian)", 22.6 },
-                { "Precious Peach (Peach Black)", 20 },
-                { "Loot Bag (Black Purrse)", 20 },
-                { "Durov’s Cap (Shadow)", 5 },
-                { "Heart Locket (Nightclub)", 2 },
-                { "Plush Pepe (Emo Boi)", 0.3 },
-                { "Heart Locket (Turtles)", 0.1 }
-            }
+            Drop = { { "Artisan Brick (Concrete)", 30 }, { "Heroic Helmet (Praetorian)", 22.6 }, { "Precious Peach (Peach Black)", 20 }, { "Loot Bag (Black Purrse)", 20 }, { "Durov’s Cap (Shadow)", 5 }, { "Heart Locket (Nightclub)", 2 }, { "Plush Pepe (Emo Boi)", 0.3 }, { "Heart Locket (Turtles)", 0.1 } }
         },
         URUS = {
             Image = 113680285408799,
             Price = 1666666,
-            Drop = {
-                { "Heart", 25 },
-                { "Plush Pepe (Hue Jester)", 74.95 },
-                { "Plush Pepe (X-Ray)", 0.05 }
-            }
+            Drop = { { "Heart", 25 }, { "Plush Pepe (Hue Jester)", 74.95 }, { "Plush Pepe (X-Ray)", 0.05 } }
         },
         Cyber = {
             Image = 117934010640694,
             Price = 13444222,
-            Drop = {
-                { "Toy Bear (Blueprint)", 56 },
-                { "Mood Pack (Bank Vault)", 39.34 },
-                { "Happy Brownie (Toilet Bot)", 4 },
-                { "Pool Float (Nessie)", 0.6 },
-                { "Durov’s Figurine (Ilon)", 0.05 },
-                { "Plush Pepe (Bavaria)", 0.01 }
-            }
+            Drop = { { "Toy Bear (Blueprint)", 56 }, { "Mood Pack (Bank Vault)", 39.34 }, { "Happy Brownie (Toilet Bot)", 4 }, { "Pool Float (Nessie)", 0.6 }, { "Durov’s Figurine (Ilon)", 0.05 }, { "Plush Pepe (Bavaria)", 0.01 } }
         },
         Festive = {
             Image = 96220025786883,
             Price = 50,
             SNOWFLAKES = true,
             Limited = true,
-            Drop = {
-                { "Ginger Cookie (Claus)", 45 },
-                { "Sharp Tongue (Frostbite)", 25 },
-                { "Bling Binky (Christmas)", 15 },
-                { "Genie Lamp (Snow Globe)", 7 },
-                { "Mighty Arm (Icebreaker)", 5 },
-                { "Perfume Bottle (Blizzard)", 2.3 },
-                { "Heart Locket (Winter)", 0.7 }
-            }
+            Drop = { { "Ginger Cookie (Claus)", 45 }, { "Sharp Tongue (Frostbite)", 25 }, { "Bling Binky (Christmas)", 15 }, { "Genie Lamp (Snow Globe)", 7 }, { "Mighty Arm (Icebreaker)", 5 }, { "Perfume Bottle (Blizzard)", 2.3 }, { "Heart Locket (Winter)", 0.7 } }
         },
         Santa = {
             Image = 76467479616057,
             Price = 500,
             SNOWFLAKES = true,
             Limited = true,
-            Drop = {
-                { "Genie Lamp (Snow Globe)", 35 },
-                { "Mighty Arm (Icebreaker)", 25 },
-                { "Perfume Bottle (Blizzard)", 16 },
-                { "Heart Locket (Winter)", 11 },
-                { "Christmas Wreath", 7.5 },
-                { "Loot Bag (Winter)", 5 },
-                { "Plush Pepe (Frozen)", 0.5 }
-            }
+            Drop = { { "Genie Lamp (Snow Globe)", 35 }, { "Mighty Arm (Icebreaker)", 25 }, { "Perfume Bottle (Blizzard)", 16 }, { "Heart Locket (Winter)", 11 }, { "Christmas Wreath", 7.5 }, { "Loot Bag (Winter)", 5 }, { "Plush Pepe (Frozen)", 0.5 } }
         },
         Reindeer = {
             Image = 127222842721638,
             Price = 2000,
             SNOWFLAKES = true,
             Limited = true,
-            Drop = {
-                { "Mini Oscar (Claus)", 70 },
-                { "Neko Helmet (Frostbear)", 17 },
-                { "Khabib\'s Papakha (Winter)", 8.66 },
-                { "Loot Bag (Glacier)", 3.5 },
-                { "Precious Peach (Xmas Lights)", 0.7 },
-                { "Plush Pepe (Santa)", 0.21 },
-                { "Plush Pepe (Christmas)", 0.02 }
-            }
+            Drop = { { "Mini Oscar (Claus)", 70 }, { "Neko Helmet (Frostbear)", 17 }, { "Khabib\'s Papakha (Winter)", 8.66 }, { "Loot Bag (Glacier)", 3.5 }, { "Precious Peach (Xmas Lights)", 0.7 }, { "Plush Pepe (Santa)", 0.21 }, { "Plush Pepe (Christmas)", 0.02 } }
         },
         ["XMAS Night"] = {
             Image = 110966046941659,
             Price = 5000,
             SNOWFLAKES = true,
             Limited = true,
-            Drop = {
-                { "Christmas Tree", 99.7 },
-                { "Telegram Pin (Christmas)", 0.25 },
-                { "Gem Signet (XMAS Spinny Boi)", 0.05 }
-            }
+            Drop = { { "Christmas Tree", 99.7 }, { "Telegram Pin (Christmas)", 0.25 }, { "Gem Signet (XMAS Spinny Boi)", 0.05 } }
         },
         ["Porsche 911"] = {
             Image = 76723874472836,
             Price = 599999,
-            Drop = {
-                { "Durov’s Cap (Tron)", 95 },
-                { "Heart Locket (Mecha Love)", 4.95 },
-                { "Plush Pepe (Gucci Leap)", 0.05 }
-            }
+            Drop = { { "Durov’s Cap (Tron)", 95 }, { "Heart Locket (Mecha Love)", 4.95 }, { "Plush Pepe (Gucci Leap)", 0.05 } }
         },
         G63 = {
             Image = 97343275696585,
             Price = 177777,
-            Drop = {
-                { "Ion Gem (Prismatic)", 45 },
-                { "Loot Bag (Crypto Byte)", 25 },
-                { "Artisan Brick (Gold Block)", 15 },
-                { "Heroic Helmet (Frozen Aegis)", 9 },
-                { "Heart Locket (Shield of Sun)", 3 },
-                { "Heart Locket (Delegram)", 2 },
-                { "Plush Pepe (Amalgam)", 1 }
-            }
+            Drop = { { "Ion Gem (Prismatic)", 45 }, { "Loot Bag (Crypto Byte)", 25 }, { "Artisan Brick (Gold Block)", 15 }, { "Heroic Helmet (Frozen Aegis)", 9 }, { "Heart Locket (Shield of Sun)", 3 }, { "Heart Locket (Delegram)", 2 }, { "Plush Pepe (Amalgam)", 1 } }
         },
         ["M5 F90"] = {
             Image = 91905618241831,
             Price = 55555,
-            Drop = {
-                { "Astral Shard (Crystal Punk)", 45 },
-                { "Mighty Arm (Body Builder)", 34 },
-                { "Artisan Brick (Bomb Planted)", 11 },
-                { "Cupid Charm (Pepe Love)", 5 },
-                { "Precious Peach (Yin Yang)", 3.5 },
-                { "Durov’s Cap (Neon)", 1.3 },
-                { "Heart Locket (Neptune)", 0.2 }
-            }
+            Drop = { { "Astral Shard (Crystal Punk)", 45 }, { "Mighty Arm (Body Builder)", 34 }, { "Artisan Brick (Bomb Planted)", 11 }, { "Cupid Charm (Pepe Love)", 5 }, { "Precious Peach (Yin Yang)", 3.5 }, { "Durov’s Cap (Neon)", 1.3 }, { "Heart Locket (Neptune)", 0.2 } }
         },
         ["All In"] = {
             Image = 101374812394445,
             Price = 200,
             Paid = true,
-            Drop = {
-                { "Loot Bag (Pepe Bag)", 30 },
-                { "Heart Locket (Shield of Sun)", 25 },
-                { "Heart Locket (Saturn)", 20 },
-                { "Heart Locket (Trapped Heart)", 15 },
-                { "Plush Pepe (Aqua Plush)", 9.6 },
-                { "Plush Pepe (Gucci Leap)", 0.4 }
-            }
+            Drop = { { "Loot Bag (Pepe Bag)", 30 }, { "Heart Locket (Shield of Sun)", 25 }, { "Heart Locket (Saturn)", 20 }, { "Heart Locket (Trapped Heart)", 15 }, { "Plush Pepe (Aqua Plush)", 9.6 }, { "Plush Pepe (Gucci Leap)", 0.4 } }
         },
         Dream = {
             Image = 137897894683277,
             Price = 250000,
-            Drop = {
-                { "Toy Bear (Dark Knight)", 43 },
-                { "Mighty Arm (Gladiator)", 35 },
-                { "Durov’s Cap (Sunrise)", 10.5 },
-                { "Artisan Brick (USBrick)", 7 },
-                { "Durov’s Cap (RGB Glitch)", 3 },
-                { "Plush Pepe (Aqua Plush)", 1.5 }
-            }
+            Drop = { { "Toy Bear (Dark Knight)", 43 }, { "Mighty Arm (Gladiator)", 35 }, { "Durov’s Cap (Sunrise)", 10.5 }, { "Artisan Brick (USBrick)", 7 }, { "Durov’s Cap (RGB Glitch)", 3 }, { "Plush Pepe (Aqua Plush)", 1.5 } }
         },
         Manager = {
             Image = 99806181652051,
             Price = 835,
-            Drop = {
-                { "Snake Box", 30 },
-                { "Clover Pin (Corrupted)", 25 },
-                { "Jack in the box (Aliens)", 20 },
-                { "Jolly Chimp (Retro Cartoon)", 9 },
-                { "Easter Egg (Creeper)", 7 },
-                { "Ginger Cookie (Headless)", 4 },
-                { "Easter Egg (Boiled Pepe)", 2.5 },
-                { "Hanging Star (This Is Fine)", 1.5 },
-                { "Jester Hat (Pepe Hop)", 0.7 },
-                { "Bonded Ring (Pixel Loot)", 0.3 }
-            }
+            Drop = { { "Snake Box", 30 }, { "Clover Pin (Corrupted)", 25 }, { "Jack in the box (Aliens)", 20 }, { "Jolly Chimp (Retro Cartoon)", 9 }, { "Easter Egg (Creeper)", 7 }, { "Ginger Cookie (Headless)", 4 }, { "Easter Egg (Boiled Pepe)", 2.5 }, { "Hanging Star (This Is Fine)", 1.5 }, { "Jester Hat (Pepe Hop)", 0.7 }, { "Bonded Ring (Pixel Loot)", 0.3 } }
         },
         Premium = {
             Image = 103787870998417,
             Price = 50,
             Paid = true,
-            Drop = {
-                { "Jester Hat (Pepe Hop)", 25 },
-                { "Ionic Dryer (Arc Reactor)", 20 },
-                { "Signet Ring (Saturn Ring)", 18 },
-                { "Astral Shard (Barbed)", 17 },
-                { "Bonded Ring (Asteroid)", 14 },
-                { "Nail Bracelet (Crypto Gem)", 4 },
-                { "Magic Potion (Error Elixir)", 1.6 },
-                { "Precious Peach (Crypto Orange)", 0.4 }
-            }
+            Drop = { { "Jester Hat (Pepe Hop)", 25 }, { "Ionic Dryer (Arc Reactor)", 20 }, { "Signet Ring (Saturn Ring)", 18 }, { "Astral Shard (Barbed)", 17 }, { "Bonded Ring (Asteroid)", 14 }, { "Nail Bracelet (Crypto Gem)", 4 }, { "Magic Potion (Error Elixir)", 1.6 }, { "Precious Peach (Crypto Orange)", 0.4 } }
         },
         ["Ninja Turtles"] = {
             Image = 81637665994885,
             Price = 10000000,
-            Drop = {
-                { "Mighty Arm (Pizza Pump)", 28 },
-                { "Happy Brownie (Raphael)", 21 },
-                { "Plush Pepe (Ninja Mike)", 13.85 },
-                { "Plush Pepe (Donatello)", 13.63 },
-                { "Plush Pepe (Raphael)", 12 },
-                { "Plush Pepe (Leonardo)", 11.5 },
-                { "Plush Pepe (Turtles)", 0.02 }
-            }
+            Drop = { { "Mighty Arm (Pizza Pump)", 28 }, { "Happy Brownie (Raphael)", 21 }, { "Plush Pepe (Ninja Mike)", 13.85 }, { "Plush Pepe (Donatello)", 13.63 }, { "Plush Pepe (Raphael)", 12 }, { "Plush Pepe (Leonardo)", 11.5 }, { "Plush Pepe (Turtles)", 0.02 } }
         },
         Starter = {
             Image = 131935342493294,
             Price = 20,
             Paid = true,
-            Drop = {
-                { "Mad Pumpkin (Daredevil)", 25 },
-                { "Kissed Frog (Ectofrog)", 21 },
-                { "Toy Bear (Alter Ego)", 19 },
-                { "Scared Cat (Cathulhu)", 15 },
-                { "Genie Lamp (Star Dust)", 11 },
-                { "Loot Bag (Road Trip)", 7 },
-                { "Perfume Bottle (Rose Thorn)", 2 }
-            }
+            Drop = { { "Mad Pumpkin (Daredevil)", 25 }, { "Kissed Frog (Ectofrog)", 21 }, { "Toy Bear (Alter Ego)", 19 }, { "Scared Cat (Cathulhu)", 15 }, { "Genie Lamp (Star Dust)", 11 }, { "Loot Bag (Road Trip)", 7 }, { "Perfume Bottle (Rose Thorn)", 2 } }
         },
         Pepe10 = {
             Image = 91311078844219,
             Price = 100,
             Paid = true,
-            Drop = {
-                { "Heart", 85 },
-                { "Plush Pepe (Aqua Plush)", 8 },
-                { "Plush Pepe (Emo Boi)", 6 },
-                { "Plush Pepe (Toading...)", 1 }
-            }
+            Drop = { { "Heart", 85 }, { "Plush Pepe (Aqua Plush)", 8 }, { "Plush Pepe (Emo Boi)", 6 }, { "Plush Pepe (Toading...)", 1 } }
         },
         Cats = {
             Image = 95375267833149,
             Price = 40000,
-            Drop = {
-                { "Gem Signet (Old Bronze)", 38 },
-                { "Bonded Ring (Cat Bed)", 24.7 },
-                { "Resistance Dog", 13 },
-                { "Nail Bracelet (Cat Person)", 9.5 },
-                { "Scared Cat (Obelisk)", 6 },
-                { "Nail Bracelet (Moon Cat)", 4 },
-                { "Genie Lamp (Cat Spirit)", 2.2 },
-                { "Artisan Brick (Cash Roll)", 1.5 },
-                { "Durov’s Cap (Fun Time)", 0.7 },
-                { "Heart Locket (Fairy Dust)", 0.3 },
-                { "Plush Pepe (Poison Dart)", 0.1 }
-            }
+            Drop = { { "Gem Signet (Old Bronze)", 38 }, { "Bonded Ring (Cat Bed)", 24.7 }, { "Resistance Dog", 13 }, { "Nail Bracelet (Cat Person)", 9.5 }, { "Scared Cat (Obelisk)", 6 }, { "Nail Bracelet (Moon Cat)", 4 }, { "Genie Lamp (Cat Spirit)", 2.2 }, { "Artisan Brick (Cash Roll)", 1.5 }, { "Durov’s Cap (Fun Time)", 0.7 }, { "Heart Locket (Fairy Dust)", 0.3 }, { "Plush Pepe (Poison Dart)", 0.1 } }
         },
         ["Bubble Gum"] = {
             Image = 82224068961086,
             Price = 12000,
-            Drop = {
-                { "Fresh Socks (Billie Jean)", 38 },
-                { "Low Rider (Neon Nitro)", 25.9 },
-                { "Toy Bear (Fazbear)", 17 },
-                { "Electric Skull (Half Alive)", 8 },
-                { "Bonded Ring (Rainbow)", 5 },
-                { "Astral Shard (Nectarite)", 3 },
-                { "Loot Bag (City Life)", 1.5 },
-                { "Gem Signet (8 Bit Diamond)", 1 },
-                { "Heroic Helmet (Punk Skull)", 0.35 },
-                { "Durov’s Cap (Sky High)", 0.25 }
-            }
+            Drop = { { "Fresh Socks (Billie Jean)", 38 }, { "Low Rider (Neon Nitro)", 25.9 }, { "Toy Bear (Fazbear)", 17 }, { "Electric Skull (Half Alive)", 8 }, { "Bonded Ring (Rainbow)", 5 }, { "Astral Shard (Nectarite)", 3 }, { "Loot Bag (City Life)", 1.5 }, { "Gem Signet (8 Bit Diamond)", 1 }, { "Heroic Helmet (Punk Skull)", 0.35 }, { "Durov’s Cap (Sky High)", 0.25 } }
         },
         ["Frozen Heart"] = {
             Image = 87214395143906,
             Price = 4500,
-            Drop = {
-                { "Eternal Candle (Bubble Bath)", 45.8 },
-                { "Cupid Charm (Crystal Clear)", 23 },
-                { "Love Potion (Ice Queen)", 15 },
-                { "Mad Pumpkin (Frostbite)", 10 },
-                { "Kissed Frog (Ectofrog)", 4 },
-                { "Astral Shard (Aquarium)", 1.6 },
-                { "Precious Peach (Bubbling Blue)", 0.6 }
-            }
+            Drop = { { "Eternal Candle (Bubble Bath)", 45.8 }, { "Cupid Charm (Crystal Clear)", 23 }, { "Love Potion (Ice Queen)", 15 }, { "Mad Pumpkin (Frostbite)", 10 }, { "Kissed Frog (Ectofrog)", 4 }, { "Astral Shard (Aquarium)", 1.6 }, { "Precious Peach (Bubbling Blue)", 0.6 } }
         },
         Luxury = {
             Image = 117750720745301,
             Price = 119999,
-            Drop = {
-                { "Gem Signet (Death Star)", 32 },
-                { "Electric Skull (Terminator)", 25 },
-                { "Mini Oscar (Fiery-Hot)", 18 },
-                { "Artisan Brick (Fight Club)", 8.7 },
-                { "Heroic Helmet (Cyberpunk)", 7 },
-                { "Nail Bracelet (Interstellar)", 5 },
-                { "Precious Peach (Angelic)", 3 },
-                { "Durov’s Cap (Falcon)", 1 },
-                { "Heart Locket (Cirque)", 0.2 },
-                { "Plush Pepe (Emerald Plush)", 0.1 }
-            }
+            Drop = { { "Gem Signet (Death Star)", 32 }, { "Electric Skull (Terminator)", 25 }, { "Mini Oscar (Fiery-Hot)", 18 }, { "Artisan Brick (Fight Club)", 8.7 }, { "Heroic Helmet (Cyberpunk)", 7 }, { "Nail Bracelet (Interstellar)", 5 }, { "Precious Peach (Angelic)", 3 }, { "Durov’s Cap (Falcon)", 1 }, { "Heart Locket (Cirque)", 0.2 }, { "Plush Pepe (Emerald Plush)", 0.1 } }
         },
         Burj = {
             Image = 93924885649377,
             Price = 37999,
-            Drop = {
-                { "Gem Signet (Amethyst)", 38.1 },
-                { "Diamond Ring (Black Hole)", 25 },
-                { "Astral Shard (Bogartite)", 15 },
-                { "Genie Lamp (Lava Lamp)", 10 },
-                { "Ion Gem (Prismatic)", 5 },
-                { "Loot Bag (Conductor)", 4 },
-                { "Mighty Arm (Crystal Fist)", 2 },
-                { "Durov’s Cap (Honey Bee)", 0.6 },
-                { "Plush Pepe (Hue Jester)", 0.3 }
-            }
+            Drop = { { "Gem Signet (Amethyst)", 38.1 }, { "Diamond Ring (Black Hole)", 25 }, { "Astral Shard (Bogartite)", 15 }, { "Genie Lamp (Lava Lamp)", 10 }, { "Ion Gem (Prismatic)", 5 }, { "Loot Bag (Conductor)", 4 }, { "Mighty Arm (Crystal Fist)", 2 }, { "Durov’s Cap (Honey Bee)", 0.6 }, { "Plush Pepe (Hue Jester)", 0.3 } }
         },
         Palm = {
             Image = 72236024427706,
             Price = 13999,
-            Drop = {
-                { "Crystal Ball (Druid Circle)", 23.5 },
-                { "Cupid Charm (Dryad Heart)", 18 },
-                { "Love Potion (Banana)", 16 },
-                { "Sakura Flower (Sunflower)", 13 },
-                { "Kissed Frog (Lava Leap)", 11 },
-                { "Gem Signet (Elven Shade)", 10 },
-                { "Bonded Ring (Duckling)", 5.2 },
-                { "Sakura Flower (Flowey)", 2.4 },
-                { "Astral Shard (Eve\'s Apple)", 0.6 },
-                { "Precious Peach (Rich Green)", 0.3 }
-            }
+            Drop = { { "Crystal Ball (Druid Circle)", 23.5 }, { "Cupid Charm (Dryad Heart)", 18 }, { "Love Potion (Banana)", 16 }, { "Sakura Flower (Sunflower)", 13 }, { "Kissed Frog (Lava Leap)", 11 }, { "Gem Signet (Elven Shade)", 10 }, { "Bonded Ring (Duckling)", 5.2 }, { "Sakura Flower (Flowey)", 2.4 }, { "Astral Shard (Eve\'s Apple)", 0.6 }, { "Precious Peach (Rich Green)", 0.3 } }
         },
         Dark = {
             Image = 88276638893486,
             Price = 4999,
-            Drop = {
-                { "Evil Eye (8 Ball)", 37.75 },
-                { "Hanging Star (Black Hole)", 20 },
-                { "Bow Tie (Dark Lord)", 12 },
-                { "Mad Pumpkin (Daredevil)", 9 },
-                { "Record Player (Dark Noir)", 8 },
-                { "Signet Ring (Obsidian)", 6 },
-                { "Swiss Watch (Memory Flash)", 3.5 },
-                { "Toy Bear (Ursa Major)", 1.75 },
-                { "Gem Signet (Black Lotus)", 1 },
-                { "Heroic Helmet (Black Thorn)", 0.6 },
-                { "Loot Bag (Black Purrse)", 0.4 }
-            }
+            Drop = { { "Evil Eye (8 Ball)", 37.75 }, { "Hanging Star (Black Hole)", 20 }, { "Bow Tie (Dark Lord)", 12 }, { "Mad Pumpkin (Daredevil)", 9 }, { "Record Player (Dark Noir)", 8 }, { "Signet Ring (Obsidian)", 6 }, { "Swiss Watch (Memory Flash)", 3.5 }, { "Toy Bear (Ursa Major)", 1.75 }, { "Gem Signet (Black Lotus)", 1 }, { "Heroic Helmet (Black Thorn)", 0.6 }, { "Loot Bag (Black Purrse)", 0.4 } }
         },
         Gold = {
             Image = 70908433442260,
             Price = 1999,
-            Drop = {
-                { "Lol Pop (Gold Star)", 40 },
-                { "Bunny Muffin (Gold)", 33.5 },
-                { "Love Candle (Golden Glow)", 15 },
-                { "Ionic Dryer (Gold Rush)", 5 },
-                { "Toy Bear (Golden Cub)", 2.5 },
-                { "Low Rider (Gold Rush)", 2 },
-                { "Swicc Watch (Day Trader)", 1.5 },
-                { "Magic Potion (Gold Medal)", 0.35 },
-                { "Artisan Brick (Gold Bar)", 0.15 }
-            }
+            Drop = { { "Lol Pop (Gold Star)", 40 }, { "Bunny Muffin (Gold)", 33.5 }, { "Love Candle (Golden Glow)", 15 }, { "Ionic Dryer (Gold Rush)", 5 }, { "Toy Bear (Golden Cub)", 2.5 }, { "Low Rider (Gold Rush)", 2 }, { "Swicc Watch (Day Trader)", 1.5 }, { "Magic Potion (Gold Medal)", 0.35 }, { "Artisan Brick (Gold Bar)", 0.15 } }
         },
         Daily = {
             Image = 114447727982920,
             Price = 0,
-            Drop = {
-                { "Desk Calendar", 80 },
-                { "Flying Broom", 19 },
-                { "Mighty Arm", 1 }
-            }
+            Drop = { { "Desk Calendar", 80 }, { "Flying Broom", 19 }, { "Mighty Arm", 1 } }
         },
         Trash = {
             Image = 106599130323577,
             Price = 0,
-            Drop = {
-                { "Heart", 60 },
-                { "Rose", 17 },
-                { "Rocket", 7 },
-                { "Flowers", 7 },
-                { "Ring", 3 },
-                { "Diamond", 3 },
-                { "Lol Pop", 1.5 },
-                { "Snoop Dogg", 1 },
-                { "Jester Hat", 0.5 }
-            }
+            Drop = { { "Heart", 60 }, { "Rose", 17 }, { "Rocket", 7 }, { "Flowers", 7 }, { "Ring", 3 }, { "Diamond", 3 }, { "Lol Pop", 1.5 }, { "Snoop Dogg", 1 }, { "Jester Hat", 0.5 } }
         },
         Plodder = {
             Image = 106913820750482,
             Price = 444,
-            Drop = {
-                { "Ring", 36.3 },
-                { "Snake Box", 15 },
-                { "Xmax Stocking", 12 },
-                { "Gigner Cookie", 8 },
-                { "Pet Snake", 8 },
-                { "Hex Pox", 7 },
-                { "Sakura Flower", 6 },
-                { "Hanging Star", 4 },
-                { "Eternal Rose", 3 },
-                { "Kissed Frog", 0.6 },
-                { "Perfume Bottle", 0.1 }
-            }
+            Drop = { { "Ring", 36.3 }, { "Snake Box", 15 }, { "Xmax Stocking", 12 }, { "Gigner Cookie", 8 }, { "Pet Snake", 8 }, { "Hex Pox", 7 }, { "Sakura Flower", 6 }, { "Hanging Star", 4 }, { "Eternal Rose", 3 }, { "Kissed Frog", 0.6 }, { "Perfume Bottle", 0.1 } }
         },
         ["Office Clerk"] = {
             Image = 113128984263308,
             Price = 689,
-            Drop = {
-                { "Lol Pop", 43.4 },
-                { "Hypno Lollipop", 12 },
-                { "Star Notepad", 12 },
-                { "Light Sword", 10 },
-                { "Jolly Chimp", 8 },
-                { "Valentine Box", 5 },
-                { "Trapped Heart", 5 },
-                { "Voodoo Doll", 4 },
-                { "Scared Cat", 0.5 },
-                { "Loot Bag", 0.09 },
-                { "Mini Oscar", 0.01 }
-            }
+            Drop = { { "Lol Pop", 43.4 }, { "Hypno Lollipop", 12 }, { "Star Notepad", 12 }, { "Light Sword", 10 }, { "Jolly Chimp", 8 }, { "Valentine Box", 5 }, { "Trapped Heart", 5 }, { "Voodoo Doll", 4 }, { "Scared Cat", 0.5 }, { "Loot Bag", 0.09 }, { "Mini Oscar", 0.01 } }
         },
         Director = {
             Image = 132224544380006,
             Price = 926,
-            Drop = {
-                { "Party Sparkler", 37.3 },
-                { "Spy Agaric", 30 },
-                { "Berry Box", 17 },
-                { "Record Player", 7 },
-                { "Cupid Charm", 5 },
-                { "Toy Bear", 3 },
-                { "Bonded Ring", 0.5 },
-                { "Astral Shard", 0.2 }
-            }
+            Drop = { { "Party Sparkler", 37.3 }, { "Spy Agaric", 30 }, { "Berry Box", 17 }, { "Record Player", 7 }, { "Cupid Charm", 5 }, { "Toy Bear", 3 }, { "Bonded Ring", 0.5 }, { "Astral Shard", 0.2 } }
         },
         Oligarch = {
             Image = 72724304053316,
             Price = 1364,
-            Drop = {
-                { "Lush Bouquet", 35 },
-                { "Jelly Bunny", 25 },
-                { "Evil Eye", 21 },
-                { "Mad Pumpkin", 9 },
-                { "Ionic Dryer", 5 },
-                { "Neko Helmet", 4 },
-                { "Gem Signet", 0.85 },
-                { "Heroic Helmet", 0.15 }
-            }
+            Drop = { { "Lush Bouquet", 35 }, { "Jelly Bunny", 25 }, { "Evil Eye", 21 }, { "Mad Pumpkin", 9 }, { "Ionic Dryer", 5 }, { "Neko Helmet", 4 }, { "Gem Signet", 0.85 }, { "Heroic Helmet", 0.15 } }
         },
         Beggar = {
             Image = 88837808135921,
             Price = 220,
-            Drop = {
-                { "Diamond", 21 },
-                { "Ring", 18.5 },
-                { "Lol Pop", 16 },
-                { "Lunar Snake", 15 },
-                { "Tama Gadget", 12 },
-                { "Holiday Drink", 10 },
-                { "Witch Hat", 5 },
-                { "Evil Eye", 2 },
-                { "Love Potion", 0.5 }
-            }
+            Drop = { { "Diamond", 21 }, { "Ring", 18.5 }, { "Lol Pop", 16 }, { "Lunar Snake", 15 }, { "Tama Gadget", 12 }, { "Holiday Drink", 10 }, { "Witch Hat", 5 }, { "Evil Eye", 2 }, { "Love Potion", 0.5 } }
         }
     }
 };
