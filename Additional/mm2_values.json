@@ -1,0 +1,3431 @@
+{
+  "updatedAt": "2026-08-21",
+  "source": "supremevalues-manual-partial",
+  "note": "Commons/Rares/Godlies/Legendaries/Chromas partially filled — re-upload remaining categories as separate files for full merge",
+  "count": 259,
+  "countMeta": 390,
+  "values": {
+    "C. Traveler's Gun": 220000,
+    "Chroma Traveler's Gun": 220000,
+    "Chroma Evergun": 75000,
+    "Chroma Evergreen": 48000,
+    "Chroma Bauble": 34000,
+    "Chroma Vampire's Gun": 29000,
+    "Chroma Vampires Gun": 29000,
+    "Chroma Constellation": 28000,
+    "Chroma Alienbeam": 24000,
+    "Gingerscope": 17750,
+    "Chroma Raygun": 14000,
+    "Chroma Sunrise": 13250,
+    "Chroma Sunset": 9250,
+    "Traveler's Axe": 8100,
+    "Travelers Axe": 8100,
+    "Chroma Snowcannon": 7750,
+    "Chroma Blizzard": 6000,
+    "Traveler's Gun": 5600,
+    "Chroma Heart Wand": 4250,
+    "Chroma Snowstorm": 4250,
+    "Evergun": 3450,
+    "Chroma Watergun": 3400,
+    "Chroma Snow Dagger": 2750,
+    "Constellation": 2700,
+    "Alienbeam": 2500,
+    "Evergreen": 2500,
+    "Celestial": 2450,
+    "Turkey": 2450,
+    "Chroma Treat": 2200,
+    "Chroma Sweet": 2050,
+    "Vampire's Gun": 1950,
+    "Chroma Ornament": 1800,
+    "Darkshot": 1800,
+    "Darksword": 1750,
+    "Raygun": 1750,
+    "Chroma Icecream": 1450,
+    "Chroma Sands": 1450,
+    "Vampire's Axe": 1450,
+    "Chroma Beachy": 1400,
+    "Blossom": 1370,
+    "Sakura": 1350,
+    "Sunrise": 1125,
+    "Snowcannon": 850,
+    "Bauble": 825,
+    "Sunset": 625,
+    "Soul": 615,
+    "Spirit": 605,
+    "Cane (Knife)": 550,
+    "Corrupt": 425,
+    "Rainbow Gun": 420,
+    "Flora": 410,
+    "Rainbow": 410,
+    "Bloom": 400,
+    "Heart Wand": 340,
+    "Xenoknife": 300,
+    "Xenoshot": 300,
+    "Ocean": 285,
+    "Waves": 280,
+    "Flowerwood Gun": 265,
+    "Blizzard": 260,
+    "Flowerwood": 260,
+    "Snowstorm": 260,
+    "Harvester": 250,
+    "Snow Dagger": 250,
+    "Watergun": 245,
+    "Bones": 215,
+    "Dungeon": 180,
+    "Icepiercer": 160,
+    "Treat": 155,
+    "Sweet": 150,
+    "Borealis": 145,
+    "Sands": 145,
+    "Australis": 140,
+    "Latte (Gun)": 140,
+    "Latte (Knife)": 140,
+    "Brains": 135,
+    "Icecream": 135,
+    "Bat": 120,
+    "Beachy": 120,
+    "Zombified (Knife)": 120,
+    "Gingerbread (Knife) [XMAS2019]": 85,
+    "Pearlshine": 85,
+    "Candy": 80,
+    "Pearl": 80,
+    "Darkknife": 70,
+    "Chroma Darkbringer": 65,
+    "Heartblade": 65,
+    "Icebreaker": 65,
+    "Chroma Lightbringer": 60,
+    "Sweater (Knife) [XMAS2018]": 60,
+    "Snowflake (Knife) [XMAS2018]": 55,
+    "Branches": 50,
+    "Chroma Luger": 50,
+    "Silent Night (Knife)": 50,
+    "Spectral (Knife)": 50,
+    "Traveler (Gun)": 50,
+    "Aurora (Gun)": 45,
+    "Vampire (Gun)": 45,
+    "Batwing": 42,
+    "Chroma Candleflame": 40,
+    "Chroma Laser": 40,
+    "Luger": 40,
+    "Chroma Swirly Gun": 38,
+    "Elderwood Scythe": 38,
+    "Swirly Axe": 38,
+    "Chroma Elderwood Blade": 37,
+    "Red Luger": 37,
+    "Beach": 35,
+    "Chroma Deathshard": 35,
+    "Cotton Candy": 35,
+    "Phantom": 35,
+    "Spectre": 35,
+    "Zombified": 35,
+    "Candleflame": 33,
+    "Darkbringer": 33,
+    "Elderwood Blade": 33,
+    "Elderwood Revolver": 33,
+    "Iceblaster": 33,
+    "Lightbringer": 33,
+    "Makeshift": 33,
+    "Chroma Cookiecane": 32,
+    "Chroma Fang": 32,
+    "Chroma Gemstone": 32,
+    "Chroma Shark": 32,
+    "Chroma Slasher": 32,
+    "Ornament": 32,
+    "Sugar": 32,
+    "Hallowscythe": 30,
+    "Chroma Heat": 28,
+    "Chroma Seer": 28,
+    "JD": 28,
+    "Chroma Gingerblade": 27,
+    "Chroma Tides": 27,
+    "Chroma Saw": 23,
+    "Green Luger": 23,
+    "Amerilaser": 22,
+    "Chroma Boneblade": 22,
+    "Starry (Gun)": 22,
+    "Hallowgun": 20,
+    "Mummy (2017)": 20,
+    "Nightblade": 20,
+    "Shark": 20,
+    "Swirl": 20,
+    "Watcher (Gun)": 20,
+    "Icebeam": 18,
+    "Logchopper": 18,
+    "Plasmabeam": 18,
+    "Swirly Gun": 18,
+    "Battleaxe II": 17,
+    "Blaster": 17,
+    "Ginger Luger": 17,
+    "Pixel": 17,
+    "Gemstone": 15,
+    "Iceflake": 15,
+    "Old Glory": 15,
+    "Plasmablade": 15,
+    "Skulls": 15,
+    "Slasher": 15,
+    "Vampire's Edge": 15,
+    "Zombified (Gun)": 15,
+    "Cookiecane": 13,
+    "Deathshard": 13,
+    "Eternalcane": 13,
+    "Gingerblade": 13,
+    "Icewing": 13,
+    "Jinglegun": 13,
+    "Lugercane": 13,
+    "Minty": 13,
+    "Nebula": 13,
+    "Virtual": 13,
+    "Battleaxe": 12,
+    "Gingermint": 12,
+    "Swirly Blade": 12,
+    "Void": 12,
+    "Wrap (Gun)": 12,
+    "Wrap (Knife)": 12,
+    "Arctic (Gun)": 10,
+    "Chill": 10,
+    "Clockwork": 10,
+    "Fang": 10,
+    "Frostsaber": 10,
+    "Ghostfire": 10,
+    "Gingerbread (Knife) [XMAS2020]": 10,
+    "Heat": 10,
+    "Spider": 10,
+    "Tides": 10,
+    "Bioblade": 8,
+    "Blood": 8,
+    "Eternal III": 8,
+    "Eternal IV": 8,
+    "Ghost": 8,
+    "Hallow's Blade": 8,
+    "Hallow's Edge": 8,
+    "Handsaw": 8,
+    "Laser": 8,
+    "Steel (Gun)": 8,
+    "America": 7,
+    "Boneblade": 7,
+    "Eternal": 7,
+    "Eternal II": 7,
+    "Frostbite": 7,
+    "Ghostblade": 7,
+    "Gothic (Gun)": 7,
+    "Ice Dragon": 7,
+    "Ice Shard": 7,
+    "Prismatic": 7,
+    "Pumpking": 7,
+    "Saw": 7,
+    "Xmas": 7,
+    "Zombie": 7,
+    "Prince": 6,
+    "Shadow": 6,
+    "Eggblade": 5,
+    "Flames": 5,
+    "Hazard (Gun)": 5,
+    "Icedriller": 5,
+    "Nightsky": 5,
+    "Phaser": 5,
+    "Snowflake": 5,
+    "Snowman (Gun) [XMAS2021]": 5,
+    "Winter's Edge": 5,
+    "Zombie (Gun)": 5,
+    "Bunnies": 4,
+    "Cowboy": 4,
+    "Golden": 4,
+    "Peppermint": 4,
+    "Blue Seer": 3,
+    "Cookieblade": 3,
+    "Frozen (Gun)": 3,
+    "Gingerbread (Gun) [XMAS2020]": 3,
+    "Lantern": 3,
+    "Potion (2017)": 3,
+    "Purple Seer": 3,
+    "Red Seer": 3,
+    "Seer": 3,
+    "Splitter": 3,
+    "Webs": 3,
+    "Zombie (2023)": 3,
+    "Lights (Gun)": 2,
+    "Meltdown": 2,
+    "Mummy (Gun) [HALLOWS2018]": 2,
+    "Orange Seer": 2,
+    "Potion (Gun)": 2,
+    "Potion (Knife)": 2,
+    "Pumpkin Pie": 2,
+    "Stars (Knife)": 2,
+    "Tree (2021)": 2,
+    "Yellow Seer": 2,
+    "Cookie (Knife)": 1,
+    "Frozen (Knife)": 1,
+    "Gingerbread (Gun) [XMAS2019]": 1,
+    "Holly (Gun)": 1,
+    "Lights (Knife)": 1,
+    "Moonlight": 1,
+    "Moons": 1,
+    "Mummy (Knife) [HALLOWS2018]": 1,
+    "Vampire": 1,
+    "Wolf": 1,
+    "Zombie (Knife)": 1
+  },
+  "aliases": {
+    "BW": "Batwing",
+    "Cel": "Celestial",
+    "Celest": "Celestial",
+    "EW Scythe": "Elderwood Scythe",
+    "GS": "Gingerscope",
+    "GScope": "Gingerscope",
+    "Scope": "Gingerscope",
+    "HS": "Hallowscythe",
+    "Harv": "Harvester",
+    "Icep": "Icepiercer",
+    "Icew": "Icewing",
+    "IW": "Icewing",
+    "Log": "Logchopper",
+    "SWA": "Swirly Axe",
+    "SW Axe": "Swirly Axe",
+    "Trav Axe": "Traveler's Axe",
+    "TVA": "Traveler's Axe",
+    "Vamp Axe": "Vampire's Axe",
+    "VA": "Vampire's Axe"
+  },
+  "meta": {
+    "Abduction": {
+      "name": "Abduction",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Adurite (Gun)": {
+      "name": "Adurite (Gun)",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Adurite (Knife)": {
+      "name": "Adurite (Knife)",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Biogun": {
+      "name": "Biogun",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Blossom": {
+      "name": "Blossom",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Blue": {
+      "name": "Blue",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Bluesteel (Gun)": {
+      "name": "Bluesteel (Gun)",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Bluesteel (Knife)": {
+      "name": "Bluesteel (Knife)",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Bones": {
+      "name": "Bones",
+      "value": 215,
+      "valueText": "215",
+      "category": "uncommons",
+      "demand": 3,
+      "rarity": 5,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Bones (Knife)": {
+      "name": "Bones (Knife)",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Brains": {
+      "name": "Brains",
+      "value": 135,
+      "valueText": "135",
+      "category": "uncommons",
+      "demand": 3,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Brains (2022)": {
+      "name": "Brains (2022)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Branches": {
+      "name": "Branches",
+      "value": 50,
+      "valueText": "50",
+      "category": "uncommons",
+      "demand": 3,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Brush": {
+      "name": "Brush",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Camo (Gun)": {
+      "name": "Camo (Gun)",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Camo (Knife)": {
+      "name": "Camo (Knife)",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Canes (Gun)": {
+      "name": "Canes (Gun)",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Canes (Knife)": {
+      "name": "Canes (Knife)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Carrot": {
+      "name": "Carrot",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Carrot (Gun)": {
+      "name": "Carrot (Gun)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Carrot (Knife)": {
+      "name": "Carrot (Knife)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Caution": {
+      "name": "Caution",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Checkers": {
+      "name": "Checkers",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Cheddar": {
+      "name": "Cheddar",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Cheesy": {
+      "name": "Cheesy",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Circuit": {
+      "name": "Circuit",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Clown (Gun)": {
+      "name": "Clown (Gun)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Cookie (Gun)": {
+      "name": "Cookie (Gun)",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Cookie (Knife)": {
+      "name": "Cookie (Knife)",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Decorated": {
+      "name": "Decorated",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Doge": {
+      "name": "Doge",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Donut": {
+      "name": "Donut",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Eclipse": {
+      "name": "Eclipse",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Eyes": {
+      "name": "Eyes",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Fall Camo": {
+      "name": "Fall Camo",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Fireplace": {
+      "name": "Fireplace",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Floatie": {
+      "name": "Floatie",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Floral": {
+      "name": "Floral",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Forest": {
+      "name": "Forest",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Frosty": {
+      "name": "Frosty",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Frozen (Gun)": {
+      "name": "Frozen (Gun)",
+      "value": 3,
+      "valueText": "3",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Frozen (Knife)": {
+      "name": "Frozen (Knife)",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Future": {
+      "name": "Future",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Ghostly": {
+      "name": "Ghostly",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Ghosts (Knife)": {
+      "name": "Ghosts (Knife)",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gifted": {
+      "name": "Gifted",
+      "value": null,
+      "valueText": "x4 T1 Legendaries",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gingerbread (Gun) [XMAS2019]": {
+      "name": "Gingerbread (Gun) [XMAS2019]",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gingerbread (Gun) [XMAS2020]": {
+      "name": "Gingerbread (Gun) [XMAS2020]",
+      "value": 3,
+      "valueText": "3",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gingerbread (Gun) [XMAS2021]": {
+      "name": "Gingerbread (Gun) [XMAS2021]",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gingerbread (Gun) [XMAS2025]": {
+      "name": "Gingerbread (Gun) [XMAS2025]",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gingerbread (Knife) [XMAS2019]": {
+      "name": "Gingerbread (Knife) [XMAS2019]",
+      "value": 85,
+      "valueText": "85",
+      "category": "uncommons",
+      "demand": 3,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gingerbread (Knife) [XMAS2020]": {
+      "name": "Gingerbread (Knife) [XMAS2020]",
+      "value": 10,
+      "valueText": "10",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gingerbread (Knife) [XMAS2025]": {
+      "name": "Gingerbread (Knife) [XMAS2025]",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gingerheart": {
+      "name": "Gingerheart",
+      "value": null,
+      "valueText": "x2 T1 Rares",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Glowy": {
+      "name": "Glowy",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gothic (Gun)": {
+      "name": "Gothic (Gun)",
+      "value": 7,
+      "valueText": "7",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Gothic (Knife)": {
+      "name": "Gothic (Knife)",
+      "value": null,
+      "valueText": "x4 T1 Legendaries",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Graffiti": {
+      "name": "Graffiti",
+      "value": null,
+      "valueText": "x3 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Hazard (Gun)": {
+      "name": "Hazard (Gun)",
+      "value": 5,
+      "valueText": "5",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Hazard (Knife)": {
+      "name": "Hazard (Knife)",
+      "value": null,
+      "valueText": "x3 T1 Rares",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Hazmat": {
+      "name": "Hazmat",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "High Tech": {
+      "name": "High Tech",
+      "value": null,
+      "valueText": "x3 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Hive": {
+      "name": "Hive",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Holly (Gun)": {
+      "name": "Holly (Gun)",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Holly (Knife)": {
+      "name": "Holly (Knife)",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Jellyfish": {
+      "name": "Jellyfish",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Jigsaw": {
+      "name": "Jigsaw",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Lantern": {
+      "name": "Lantern",
+      "value": 3,
+      "valueText": "3",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Lava (Gun)": {
+      "name": "Lava (Gun)",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Lava (Knife)": {
+      "name": "Lava (Knife)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Leaves": {
+      "name": "Leaves",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Lights (Gun)": {
+      "name": "Lights (Gun)",
+      "value": 2,
+      "valueText": "2",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Lights (Knife)": {
+      "name": "Lights (Knife)",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Love (Gun)": {
+      "name": "Love (Gun)",
+      "value": null,
+      "valueText": "x2 T1 Rares",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Lucky": {
+      "name": "Lucky",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Marble": {
+      "name": "Marble",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Marina": {
+      "name": "Marina",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Meadow": {
+      "name": "Meadow",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Melon": {
+      "name": "Melon",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Melon [SUMMER2023]": {
+      "name": "Melon [SUMMER2023]",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Meltdown": {
+      "name": "Meltdown",
+      "value": 2,
+      "valueText": "2",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Missing": {
+      "name": "Missing",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Mistletoe (Gun)": {
+      "name": "Mistletoe (Gun)",
+      "value": null,
+      "valueText": "x3 T1 Rares",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Mistletoe (Knife)": {
+      "name": "Mistletoe (Knife)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Monster": {
+      "name": "Monster",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Moonlight": {
+      "name": "Moonlight",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Moons": {
+      "name": "Moons",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Moons (2024)": {
+      "name": "Moons (2024)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Mummy (2017)": {
+      "name": "Mummy (2017)",
+      "value": 20,
+      "valueText": "20",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Mummy (Gun) [HALLOWS2018]": {
+      "name": "Mummy (Gun) [HALLOWS2018]",
+      "value": 2,
+      "valueText": "2",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Mummy (Gun) [HALLOWS2020]": {
+      "name": "Mummy (Gun) [HALLOWS2020]",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Mummy (Knife) [HALLOWS2018]": {
+      "name": "Mummy (Knife) [HALLOWS2018]",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Mummy (Knife) [HALLOWS2020]": {
+      "name": "Mummy (Knife) [HALLOWS2020]",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Neopolitan": {
+      "name": "Neopolitan",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Night": {
+      "name": "Night",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Nutcracker": {
+      "name": "Nutcracker",
+      "value": null,
+      "valueText": "x4 T1 Legendaries",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Ornaments": {
+      "name": "Ornaments",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Painted (Gun)": {
+      "name": "Painted (Gun)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Paper": {
+      "name": "Paper",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Paws": {
+      "name": "Paws",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Pink": {
+      "name": "Pink",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Pirate": {
+      "name": "Pirate",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Polar Bear": {
+      "name": "Polar Bear",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Pool": {
+      "name": "Pool",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Pool Noodle": {
+      "name": "Pool Noodle",
+      "value": null,
+      "valueText": "x1 T1 Legendary",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Popsicle": {
+      "name": "Popsicle",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Popsicle (Gun)": {
+      "name": "Popsicle (Gun)",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Portal (Gun)": {
+      "name": "Portal (Gun)",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Potion (2017)": {
+      "name": "Potion (2017)",
+      "value": 3,
+      "valueText": "3",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Potion (Gun)": {
+      "name": "Potion (Gun)",
+      "value": 2,
+      "valueText": "2",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Potion (Knife)": {
+      "name": "Potion (Knife)",
+      "value": 2,
+      "valueText": "2",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Pumpkin (2025)": {
+      "name": "Pumpkin (2025)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Pumpkin (Knife)": {
+      "name": "Pumpkin (Knife)",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Pumpkin Patch": {
+      "name": "Pumpkin Patch",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Pumpkin Pie": {
+      "name": "Pumpkin Pie",
+      "value": 2,
+      "valueText": "2",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Red": {
+      "name": "Red",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Retro": {
+      "name": "Retro",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Rose": {
+      "name": "Rose",
+      "value": null,
+      "valueText": "x2 T1 Rares",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Sketch": {
+      "name": "Sketch",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Skulls": {
+      "name": "Skulls",
+      "value": 15,
+      "valueText": "15",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowflake (Gun) [XMAS2018]": {
+      "name": "Snowflake (Gun) [XMAS2018]",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowflake (Gun) [XMAS2022]": {
+      "name": "Snowflake (Gun) [XMAS2022]",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowflake (Knife) [XMAS2018]": {
+      "name": "Snowflake (Knife) [XMAS2018]",
+      "value": 55,
+      "valueText": "55",
+      "category": "uncommons",
+      "demand": 3,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowflake (Knife) [XMAS2022]": {
+      "name": "Snowflake (Knife) [XMAS2022]",
+      "value": null,
+      "valueText": "x1 T1 Legendary",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowman (2023)": {
+      "name": "Snowman (2023)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowman (2024)": {
+      "name": "Snowman (2024)",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowman (Gun) [XMAS2015]": {
+      "name": "Snowman (Gun) [XMAS2015]",
+      "value": null,
+      "valueText": "x4 T1 Legendaries",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowman (Gun) [XMAS2021]": {
+      "name": "Snowman (Gun) [XMAS2021]",
+      "value": 5,
+      "valueText": "5",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowman (Knife) [XMAS2015]": {
+      "name": "Snowman (Knife) [XMAS2015]",
+      "value": null,
+      "valueText": "x4 T1 Legendaries",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowman (Knife) [XMAS2021]": {
+      "name": "Snowman (Knife) [XMAS2021]",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Snowy": {
+      "name": "Snowy",
+      "value": null,
+      "valueText": "x4 T1 Legendaries",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Soda": {
+      "name": "Soda",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Soda (Gun)": {
+      "name": "Soda (Gun)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Soda (Knife)": {
+      "name": "Soda (Knife)",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Stalker": {
+      "name": "Stalker",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Starry": {
+      "name": "Starry",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Stars (Gun)": {
+      "name": "Stars (Gun)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Stars (Knife)": {
+      "name": "Stars (Knife)",
+      "value": 2,
+      "valueText": "2",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Steel (Gun)": {
+      "name": "Steel (Gun)",
+      "value": 8,
+      "valueText": "8",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Steel (Knife)": {
+      "name": "Steel (Knife)",
+      "value": null,
+      "valueText": "x2 T1 Legendaries",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Stockings (Gun)": {
+      "name": "Stockings (Gun)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Stockings (Knife)": {
+      "name": "Stockings (Knife)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Sweater": {
+      "name": "Sweater",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Sweater (Gun) [XMAS2018]": {
+      "name": "Sweater (Gun) [XMAS2018]",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Sweater (Gun) [XMAS2025]": {
+      "name": "Sweater (Gun) [XMAS2025]",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Sweater (Knife) [XMAS2018]": {
+      "name": "Sweater (Knife) [XMAS2018]",
+      "value": 60,
+      "valueText": "60",
+      "category": "uncommons",
+      "demand": 3,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Sweater (Knife) [XMAS2025]": {
+      "name": "Sweater (Knife) [XMAS2025]",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Tiger": {
+      "name": "Tiger",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Treats (Gun)": {
+      "name": "Treats (Gun)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Treats (Knife)": {
+      "name": "Treats (Knife)",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Tree (2017)": {
+      "name": "Tree (2017)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Tree (2021)": {
+      "name": "Tree (2021)",
+      "value": 2,
+      "valueText": "2",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Turtle": {
+      "name": "Turtle",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Turtles": {
+      "name": "Turtles",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Vampire": {
+      "name": "Vampire",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Void": {
+      "name": "Void",
+      "value": 12,
+      "valueText": "12",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wanwood": {
+      "name": "Wanwood",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Webs": {
+      "name": "Webs",
+      "value": 3,
+      "valueText": "3",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Witch's Brew": {
+      "name": "Witch's Brew",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Witchbrew": {
+      "name": "Witchbrew",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wolf": {
+      "name": "Wolf",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wooden": {
+      "name": "Wooden",
+      "value": null,
+      "valueText": "x4 T1 Commons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wraiths (Gun)": {
+      "name": "Wraiths (Gun)",
+      "value": null,
+      "valueText": "x3 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wraiths (Knife)": {
+      "name": "Wraiths (Knife)",
+      "value": null,
+      "valueText": "x1 T1 Legendary",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wrap (Gun)": {
+      "name": "Wrap (Gun)",
+      "value": 12,
+      "valueText": "12",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wrap (Knife)": {
+      "name": "Wrap (Knife)",
+      "value": 12,
+      "valueText": "12",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wrapped (Gun) [XMAS2015]": {
+      "name": "Wrapped (Gun) [XMAS2015]",
+      "value": null,
+      "valueText": "x4 T1 Legendaries",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wrapped (Gun) [XMAS2024]": {
+      "name": "Wrapped (Gun) [XMAS2024]",
+      "value": null,
+      "valueText": "x1 T1 Rare",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 2,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wrapped (Knife) [XMAS2015]": {
+      "name": "Wrapped (Knife) [XMAS2015]",
+      "value": null,
+      "valueText": "x4 T1 Legendaries",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wrapped (Knife) [XMAS2024]": {
+      "name": "Wrapped (Knife) [XMAS2024]",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Wreaths": {
+      "name": "Wreaths",
+      "value": null,
+      "valueText": "x2 T1 Uncommons",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 1,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Zombie": {
+      "name": "Zombie",
+      "value": 7,
+      "valueText": "7",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Zombie (2023)": {
+      "name": "Zombie (2023)",
+      "value": 3,
+      "valueText": "3",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Zombie (Gun)": {
+      "name": "Zombie (Gun)",
+      "value": 5,
+      "valueText": "5",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Zombie (Knife)": {
+      "name": "Zombie (Knife)",
+      "value": 1,
+      "valueText": "1",
+      "category": "uncommons",
+      "demand": 1,
+      "rarity": 3,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Zombified (Gun)": {
+      "name": "Zombified (Gun)",
+      "value": 15,
+      "valueText": "15",
+      "category": "uncommons",
+      "demand": 2,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Zombified (Knife)": {
+      "name": "Zombified (Knife)",
+      "value": 120,
+      "valueText": "120",
+      "category": "uncommons",
+      "demand": 3,
+      "rarity": 4,
+      "aliases": "",
+      "stability": "Stable"
+    },
+    "Batwing": {
+      "name": "Batwing",
+      "value": 42,
+      "valueText": "42",
+      "category": "ancients",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "BW",
+      "stability": "Stable"
+    },
+    "Celestial": {
+      "name": "Celestial",
+      "value": 2450,
+      "valueText": "2,450",
+      "category": "ancients",
+      "demand": 5,
+      "rarity": 4,
+      "aliases": "Cel, Celest",
+      "stability": null
+    },
+    "Elderwood Scythe": {
+      "name": "Elderwood Scythe",
+      "value": 38,
+      "valueText": "38",
+      "category": "ancients",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "EW Scythe",
+      "stability": null
+    },
+    "Gingerscope": {
+      "name": "Gingerscope",
+      "value": 17750,
+      "valueText": "17,750",
+      "category": "ancients",
+      "demand": 6,
+      "rarity": 4,
+      "aliases": "GS, GScope, Scope",
+      "stability": null
+    },
+    "Hallowscythe": {
+      "name": "Hallowscythe",
+      "value": 30,
+      "valueText": "30",
+      "category": "ancients",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "HS",
+      "stability": null
+    },
+    "Harvester": {
+      "name": "Harvester",
+      "value": 250,
+      "valueText": "250",
+      "category": "ancients",
+      "demand": 3,
+      "rarity": 2,
+      "aliases": "Harv",
+      "stability": null
+    },
+    "Icebreaker": {
+      "name": "Icebreaker",
+      "value": 65,
+      "valueText": "65",
+      "category": "ancients",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Icepiercer": {
+      "name": "Icepiercer",
+      "value": 160,
+      "valueText": "160",
+      "category": "ancients",
+      "demand": 3,
+      "rarity": 2,
+      "aliases": "Icep",
+      "stability": null
+    },
+    "Icewing": {
+      "name": "Icewing",
+      "value": 13,
+      "valueText": "13",
+      "category": "ancients",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "Icew, IW",
+      "stability": null
+    },
+    "Logchopper": {
+      "name": "Logchopper",
+      "value": 18,
+      "valueText": "18",
+      "category": "ancients",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "Log",
+      "stability": null
+    },
+    "Swirly Axe": {
+      "name": "Swirly Axe",
+      "value": 38,
+      "valueText": "38",
+      "category": "ancients",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "SWA, SW Axe",
+      "stability": null
+    },
+    "Traveler's Axe": {
+      "name": "Traveler's Axe",
+      "value": 8100,
+      "valueText": "8,100",
+      "category": "ancients",
+      "demand": 5,
+      "rarity": 5,
+      "aliases": "Trav Axe, TVA",
+      "stability": null
+    },
+    "Vampire's Axe": {
+      "name": "Vampire's Axe",
+      "value": 1450,
+      "valueText": "1,450",
+      "category": "ancients",
+      "demand": 6,
+      "rarity": 4,
+      "aliases": "Vamp Axe, VA",
+      "stability": null
+    },
+    "America": {
+      "name": "America",
+      "value": 7,
+      "valueText": "7",
+      "category": "vintages",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Blood": {
+      "name": "Blood",
+      "value": 8,
+      "valueText": "8",
+      "category": "vintages",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Cowboy": {
+      "name": "Cowboy",
+      "value": 4,
+      "valueText": "4",
+      "category": "vintages",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Ghost": {
+      "name": "Ghost",
+      "value": 8,
+      "valueText": "8",
+      "category": "vintages",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Golden": {
+      "name": "Golden",
+      "value": 4,
+      "valueText": "4",
+      "category": "vintages",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Laser": {
+      "name": "Laser",
+      "value": 8,
+      "valueText": "8",
+      "category": "vintages",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Phaser": {
+      "name": "Phaser",
+      "value": 5,
+      "valueText": "5",
+      "category": "vintages",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Prince": {
+      "name": "Prince",
+      "value": 6,
+      "valueText": "6",
+      "category": "vintages",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Shadow": {
+      "name": "Shadow",
+      "value": 6,
+      "valueText": "6",
+      "category": "vintages",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Splitter": {
+      "name": "Splitter",
+      "value": 3,
+      "valueText": "3",
+      "category": "vintages",
+      "demand": 1,
+      "rarity": 2,
+      "aliases": "",
+      "stability": null
+    },
+    "Travelers Axe": {
+      "name": "Travelers Axe",
+      "value": 8100,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Traveler's Gun": {
+      "name": "Traveler's Gun",
+      "value": 5600,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Evergun": {
+      "name": "Evergun",
+      "value": 3450,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Constellation": {
+      "name": "Constellation",
+      "value": 2700,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Evergreen": {
+      "name": "Evergreen",
+      "value": 2500,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Turkey": {
+      "name": "Turkey",
+      "value": 2450,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Alienbeam": {
+      "name": "Alienbeam",
+      "value": 2500,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Vampire's Gun": {
+      "name": "Vampire's Gun",
+      "value": 1950,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Darkshot": {
+      "name": "Darkshot",
+      "value": 1800,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Raygun": {
+      "name": "Raygun",
+      "value": 1750,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Darksword": {
+      "name": "Darksword",
+      "value": 1750,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Sakura": {
+      "name": "Sakura",
+      "value": 1350,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Sunrise": {
+      "name": "Sunrise",
+      "value": 1125,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Snowcannon": {
+      "name": "Snowcannon",
+      "value": 850,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Bauble": {
+      "name": "Bauble",
+      "value": 825,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Sunset": {
+      "name": "Sunset",
+      "value": 625,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Soul": {
+      "name": "Soul",
+      "value": 615,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Spirit": {
+      "name": "Spirit",
+      "value": 605,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Cane (Knife)": {
+      "name": "Cane (Knife)",
+      "value": 550,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Corrupt": {
+      "name": "Corrupt",
+      "value": 425,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Rainbow Gun": {
+      "name": "Rainbow Gun",
+      "value": 420,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Flora": {
+      "name": "Flora",
+      "value": 410,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Rainbow": {
+      "name": "Rainbow",
+      "value": 410,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Bloom": {
+      "name": "Bloom",
+      "value": 400,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Traveler's Gun": {
+      "name": "Chroma Traveler's Gun",
+      "value": 220000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "C. Traveler's Gun": {
+      "name": "C. Traveler's Gun",
+      "value": 220000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Evergun": {
+      "name": "Chroma Evergun",
+      "value": 75000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Evergreen": {
+      "name": "Chroma Evergreen",
+      "value": 48000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Bauble": {
+      "name": "Chroma Bauble",
+      "value": 34000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Vampire's Gun": {
+      "name": "Chroma Vampire's Gun",
+      "value": 29000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Vampires Gun": {
+      "name": "Chroma Vampires Gun",
+      "value": 29000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Constellation": {
+      "name": "Chroma Constellation",
+      "value": 28000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Alienbeam": {
+      "name": "Chroma Alienbeam",
+      "value": 24000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Raygun": {
+      "name": "Chroma Raygun",
+      "value": 14000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Sunrise": {
+      "name": "Chroma Sunrise",
+      "value": 13250,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Sunset": {
+      "name": "Chroma Sunset",
+      "value": 9250,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Snowcannon": {
+      "name": "Chroma Snowcannon",
+      "value": 7750,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Blizzard": {
+      "name": "Chroma Blizzard",
+      "value": 6000,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Snowstorm": {
+      "name": "Chroma Snowstorm",
+      "value": 4250,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Heart Wand": {
+      "name": "Chroma Heart Wand",
+      "value": 4250,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Snow Dagger": {
+      "name": "Chroma Snow Dagger",
+      "value": 2750,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Watergun": {
+      "name": "Chroma Watergun",
+      "value": 3400,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Treat": {
+      "name": "Chroma Treat",
+      "value": 2200,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Sweet": {
+      "name": "Chroma Sweet",
+      "value": 2050,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Icecream": {
+      "name": "Chroma Icecream",
+      "value": 1450,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Sands": {
+      "name": "Chroma Sands",
+      "value": 1450,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Ornament": {
+      "name": "Chroma Ornament",
+      "value": 1800,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Beachy": {
+      "name": "Chroma Beachy",
+      "value": 1400,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Heart Wand": {
+      "name": "Heart Wand",
+      "value": 340,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Ocean": {
+      "name": "Ocean",
+      "value": 285,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Waves": {
+      "name": "Waves",
+      "value": 280,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Xenoknife": {
+      "name": "Xenoknife",
+      "value": 300,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Xenoshot": {
+      "name": "Xenoshot",
+      "value": 300,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Flowerwood Gun": {
+      "name": "Flowerwood Gun",
+      "value": 265,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Blizzard": {
+      "name": "Blizzard",
+      "value": 260,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Flowerwood": {
+      "name": "Flowerwood",
+      "value": 260,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Snowstorm": {
+      "name": "Snowstorm",
+      "value": 260,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Snow Dagger": {
+      "name": "Snow Dagger",
+      "value": 250,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Watergun": {
+      "name": "Watergun",
+      "value": 245,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Dungeon": {
+      "name": "Dungeon",
+      "value": 180,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Treat": {
+      "name": "Treat",
+      "value": 155,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Sweet": {
+      "name": "Sweet",
+      "value": 150,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Beachy": {
+      "name": "Beachy",
+      "value": 120,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Sands": {
+      "name": "Sands",
+      "value": 145,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Borealis": {
+      "name": "Borealis",
+      "value": 145,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Australis": {
+      "name": "Australis",
+      "value": 140,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Latte (Gun)": {
+      "name": "Latte (Gun)",
+      "value": 140,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Latte (Knife)": {
+      "name": "Latte (Knife)",
+      "value": 140,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Icecream": {
+      "name": "Icecream",
+      "value": 135,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Bat": {
+      "name": "Bat",
+      "value": 120,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Pearlshine": {
+      "name": "Pearlshine",
+      "value": 85,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Pearl": {
+      "name": "Pearl",
+      "value": 80,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Candy": {
+      "name": "Candy",
+      "value": 80,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Darkknife": {
+      "name": "Darkknife",
+      "value": 70,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Heartblade": {
+      "name": "Heartblade",
+      "value": 65,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Darkbringer": {
+      "name": "Chroma Darkbringer",
+      "value": 65,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Lightbringer": {
+      "name": "Chroma Lightbringer",
+      "value": 60,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Luger": {
+      "name": "Chroma Luger",
+      "value": 50,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Silent Night (Knife)": {
+      "name": "Silent Night (Knife)",
+      "value": 50,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Spectral (Knife)": {
+      "name": "Spectral (Knife)",
+      "value": 50,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Traveler (Gun)": {
+      "name": "Traveler (Gun)",
+      "value": 50,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Aurora (Gun)": {
+      "name": "Aurora (Gun)",
+      "value": 45,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Vampire (Gun)": {
+      "name": "Vampire (Gun)",
+      "value": 45,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Luger": {
+      "name": "Luger",
+      "value": 40,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Candleflame": {
+      "name": "Chroma Candleflame",
+      "value": 40,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Laser": {
+      "name": "Chroma Laser",
+      "value": 40,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Swirly Gun": {
+      "name": "Chroma Swirly Gun",
+      "value": 38,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Red Luger": {
+      "name": "Red Luger",
+      "value": 37,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Elderwood Blade": {
+      "name": "Chroma Elderwood Blade",
+      "value": 37,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Phantom": {
+      "name": "Phantom",
+      "value": 35,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Spectre": {
+      "name": "Spectre",
+      "value": 35,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Deathshard": {
+      "name": "Chroma Deathshard",
+      "value": 35,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Beach": {
+      "name": "Beach",
+      "value": 35,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Cotton Candy": {
+      "name": "Cotton Candy",
+      "value": 35,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Zombified": {
+      "name": "Zombified",
+      "value": 35,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Candleflame": {
+      "name": "Candleflame",
+      "value": 33,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Darkbringer": {
+      "name": "Darkbringer",
+      "value": 33,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Elderwood Blade": {
+      "name": "Elderwood Blade",
+      "value": 33,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Elderwood Revolver": {
+      "name": "Elderwood Revolver",
+      "value": 33,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Iceblaster": {
+      "name": "Iceblaster",
+      "value": 33,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Lightbringer": {
+      "name": "Lightbringer",
+      "value": 33,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Makeshift": {
+      "name": "Makeshift",
+      "value": 33,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Ornament": {
+      "name": "Ornament",
+      "value": 32,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Sugar": {
+      "name": "Sugar",
+      "value": 32,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Cookiecane": {
+      "name": "Chroma Cookiecane",
+      "value": 32,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Fang": {
+      "name": "Chroma Fang",
+      "value": 32,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Gemstone": {
+      "name": "Chroma Gemstone",
+      "value": 32,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Shark": {
+      "name": "Chroma Shark",
+      "value": 32,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Slasher": {
+      "name": "Chroma Slasher",
+      "value": 32,
+      "category": "manual",
+      "aliases": ""
+    },
+    "JD": {
+      "name": "JD",
+      "value": 28,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Heat": {
+      "name": "Chroma Heat",
+      "value": 28,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Seer": {
+      "name": "Chroma Seer",
+      "value": 28,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Gingerblade": {
+      "name": "Chroma Gingerblade",
+      "value": 27,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Tides": {
+      "name": "Chroma Tides",
+      "value": 27,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Green Luger": {
+      "name": "Green Luger",
+      "value": 23,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Saw": {
+      "name": "Chroma Saw",
+      "value": 23,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Amerilaser": {
+      "name": "Amerilaser",
+      "value": 22,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chroma Boneblade": {
+      "name": "Chroma Boneblade",
+      "value": 22,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Starry (Gun)": {
+      "name": "Starry (Gun)",
+      "value": 22,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Hallowgun": {
+      "name": "Hallowgun",
+      "value": 20,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Nightblade": {
+      "name": "Nightblade",
+      "value": 20,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Shark": {
+      "name": "Shark",
+      "value": 20,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Swirl": {
+      "name": "Swirl",
+      "value": 20,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Watcher (Gun)": {
+      "name": "Watcher (Gun)",
+      "value": 20,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Icebeam": {
+      "name": "Icebeam",
+      "value": 18,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Plasmabeam": {
+      "name": "Plasmabeam",
+      "value": 18,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Swirly Gun": {
+      "name": "Swirly Gun",
+      "value": 18,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Battleaxe II": {
+      "name": "Battleaxe II",
+      "value": 17,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Blaster": {
+      "name": "Blaster",
+      "value": 17,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Ginger Luger": {
+      "name": "Ginger Luger",
+      "value": 17,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Pixel": {
+      "name": "Pixel",
+      "value": 17,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Gemstone": {
+      "name": "Gemstone",
+      "value": 15,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Iceflake": {
+      "name": "Iceflake",
+      "value": 15,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Old Glory": {
+      "name": "Old Glory",
+      "value": 15,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Plasmablade": {
+      "name": "Plasmablade",
+      "value": 15,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Slasher": {
+      "name": "Slasher",
+      "value": 15,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Vampire's Edge": {
+      "name": "Vampire's Edge",
+      "value": 15,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Cookiecane": {
+      "name": "Cookiecane",
+      "value": 13,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Deathshard": {
+      "name": "Deathshard",
+      "value": 13,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Eternalcane": {
+      "name": "Eternalcane",
+      "value": 13,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Gingerblade": {
+      "name": "Gingerblade",
+      "value": 13,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Jinglegun": {
+      "name": "Jinglegun",
+      "value": 13,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Lugercane": {
+      "name": "Lugercane",
+      "value": 13,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Minty": {
+      "name": "Minty",
+      "value": 13,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Nebula": {
+      "name": "Nebula",
+      "value": 13,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Virtual": {
+      "name": "Virtual",
+      "value": 13,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Battleaxe": {
+      "name": "Battleaxe",
+      "value": 12,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Gingermint": {
+      "name": "Gingermint",
+      "value": 12,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Swirly Blade": {
+      "name": "Swirly Blade",
+      "value": 12,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Chill": {
+      "name": "Chill",
+      "value": 10,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Clockwork": {
+      "name": "Clockwork",
+      "value": 10,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Fang": {
+      "name": "Fang",
+      "value": 10,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Frostsaber": {
+      "name": "Frostsaber",
+      "value": 10,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Heat": {
+      "name": "Heat",
+      "value": 10,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Spider": {
+      "name": "Spider",
+      "value": 10,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Tides": {
+      "name": "Tides",
+      "value": 10,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Arctic (Gun)": {
+      "name": "Arctic (Gun)",
+      "value": 10,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Ghostfire": {
+      "name": "Ghostfire",
+      "value": 10,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Bioblade": {
+      "name": "Bioblade",
+      "value": 8,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Eternal III": {
+      "name": "Eternal III",
+      "value": 8,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Eternal IV": {
+      "name": "Eternal IV",
+      "value": 8,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Hallow's Blade": {
+      "name": "Hallow's Blade",
+      "value": 8,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Hallow's Edge": {
+      "name": "Hallow's Edge",
+      "value": 8,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Handsaw": {
+      "name": "Handsaw",
+      "value": 8,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Boneblade": {
+      "name": "Boneblade",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Eternal": {
+      "name": "Eternal",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Eternal II": {
+      "name": "Eternal II",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Frostbite": {
+      "name": "Frostbite",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Ghostblade": {
+      "name": "Ghostblade",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Ice Dragon": {
+      "name": "Ice Dragon",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Ice Shard": {
+      "name": "Ice Shard",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Prismatic": {
+      "name": "Prismatic",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Pumpking": {
+      "name": "Pumpking",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Saw": {
+      "name": "Saw",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Xmas": {
+      "name": "Xmas",
+      "value": 7,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Eggblade": {
+      "name": "Eggblade",
+      "value": 5,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Flames": {
+      "name": "Flames",
+      "value": 5,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Snowflake": {
+      "name": "Snowflake",
+      "value": 5,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Winter's Edge": {
+      "name": "Winter's Edge",
+      "value": 5,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Icedriller": {
+      "name": "Icedriller",
+      "value": 5,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Nightsky": {
+      "name": "Nightsky",
+      "value": 5,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Peppermint": {
+      "name": "Peppermint",
+      "value": 4,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Bunnies": {
+      "name": "Bunnies",
+      "value": 4,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Cookieblade": {
+      "name": "Cookieblade",
+      "value": 3,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Blue Seer": {
+      "name": "Blue Seer",
+      "value": 3,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Purple Seer": {
+      "name": "Purple Seer",
+      "value": 3,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Red Seer": {
+      "name": "Red Seer",
+      "value": 3,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Seer": {
+      "name": "Seer",
+      "value": 3,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Orange Seer": {
+      "name": "Orange Seer",
+      "value": 2,
+      "category": "manual",
+      "aliases": ""
+    },
+    "Yellow Seer": {
+      "name": "Yellow Seer",
+      "value": 2,
+      "category": "manual",
+      "aliases": ""
+    }
+  }
+}
