@@ -11,7 +11,8 @@
     "legendary": 76,
     "rare": 124,
     "uncommon": 177,
-    "vintage": 10
+    "vintage": 10,
+    "unique": 1
   },
   "count": 856,
   "countMeta": 856,
@@ -30,6 +31,9 @@
       "Hallowscythe": 30.0,
       "Logchopper": 18.0,
       "Icewing": 13.0
+    },
+    "unique": {
+      "Corrupt": 400.0
     },
     "chroma": {
       "Chroma Traveler's Gun": 220000.0,
@@ -935,6 +939,7 @@
     "Rainbow Gun": 420.0,
     "Flora": 410.0,
     "Rainbow": 410.0,
+    "Corrupt": 400.0,
     "Bloom": 400.0,
     "Heart Wand": 340.0,
     "Xenoknife": 300.0,
