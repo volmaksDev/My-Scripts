@@ -1,4 +1,3 @@
--- MM2 weapon mesh database (auto-extracted)
 local MESHES_OLD =
 {
     ["Gingerscope"] = {
@@ -42410,7 +42409,6 @@ local MESHES_FULL =
     },
 }
 
--- merge: FULL data (Godly/Ancient, has .Model tree) overrides the old flat data
 local MESHES = {}
 for k, v in pairs(MESHES_OLD) do MESHES[k] = v end
 for k, v in pairs(MESHES_FULL) do MESHES[k] = v end
@@ -42418,6 +42416,5 @@ MESHES_OLD, MESHES_FULL = nil, nil
 
 local count, fullCount = 0, 0
 for _, v in pairs(MESHES) do count += 1; if v.Model then fullCount += 1 end end
-print(("[MM2Viz] %d weapons (%d full-tree)."):format(count, fullCount))
 
 return MESHES
